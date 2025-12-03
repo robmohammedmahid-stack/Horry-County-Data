@@ -1,0 +1,2328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="801783">
+        <Style id="801790">
+            <LineStyle id="801792">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="801791">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="801799">
+            <LineStyle id="801801">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="801800">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="801808">
+            <LineStyle id="801810">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="801809">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="801817">
+            <LineStyle id="801819">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="801818">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="801826">
+            <LineStyle id="801828">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="801827">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="801835">
+            <LineStyle id="801837">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="801836">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="801844">
+            <LineStyle id="801846">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="801845">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="801853">
+            <LineStyle id="801855">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="801854">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="801862">
+            <LineStyle id="801864">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="801863">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="801871">
+            <LineStyle id="801873">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="801872">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="801880">
+            <LineStyle id="801882">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="801881">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="801889">
+            <LineStyle id="801891">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="801890">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="801898">
+            <LineStyle id="801900">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="801899">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="801907">
+            <LineStyle id="801909">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="801908">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="801916">
+            <LineStyle id="801918">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="801917">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="801925">
+            <LineStyle id="801927">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="801926">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="801934">
+            <LineStyle id="801936">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="801935">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="801943">
+            <LineStyle id="801945">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="801944">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="801952">
+            <LineStyle id="801954">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="801953">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="801961">
+            <LineStyle id="801963">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="801962">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="801970">
+            <LineStyle id="801972">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="801971">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="801979">
+            <LineStyle id="801981">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="801980">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="801988">
+            <LineStyle id="801990">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="801989">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="801997">
+            <LineStyle id="801999">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="801998">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="802006">
+            <LineStyle id="802008">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="802007">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="802015">
+            <LineStyle id="802017">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="802016">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="802024">
+            <LineStyle id="802026">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="802025">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="802033">
+            <LineStyle id="802035">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="802034">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="802042">
+            <LineStyle id="802044">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="802043">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="802051">
+            <LineStyle id="802053">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="802052">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="802060">
+            <LineStyle id="802062">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="802061">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="802069">
+            <LineStyle id="802071">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="802070">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="802078">
+            <LineStyle id="802080">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="802079">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="802087">
+            <LineStyle id="802089">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="802088">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="802096">
+            <LineStyle id="802098">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="802097">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="802105">
+            <LineStyle id="802107">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="802106">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="802114">
+            <LineStyle id="802116">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="802115">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="802123">
+            <LineStyle id="802125">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="802124">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="802132">
+            <LineStyle id="802134">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="802133">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="802141">
+            <LineStyle id="802143">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="802142">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="802150">
+            <LineStyle id="802152">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="802151">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="802159">
+            <LineStyle id="802161">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="802160">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="802168">
+            <LineStyle id="802170">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="802169">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="802177">
+            <LineStyle id="802179">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="802178">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="802186">
+            <LineStyle id="802188">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="802187">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="802195">
+            <LineStyle id="802197">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="802196">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="802204">
+            <LineStyle id="802206">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="802205">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="802213">
+            <LineStyle id="802215">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="802214">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="802222">
+            <LineStyle id="802224">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="802223">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="802231">
+            <LineStyle id="802233">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="802232">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="802240">
+            <LineStyle id="802242">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="802241">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="802249">
+            <LineStyle id="802251">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="802250">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="802258">
+            <LineStyle id="802260">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="802259">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="802267">
+            <LineStyle id="802269">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="802268">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="802276">
+            <LineStyle id="802278">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="802277">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="802285">
+            <LineStyle id="802287">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="802286">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="802294">
+            <LineStyle id="802296">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="802295">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="802303">
+            <LineStyle id="802305">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="802304">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="802312">
+            <LineStyle id="802314">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="802313">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="802321">
+            <LineStyle id="802323">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="802322">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="802330">
+            <LineStyle id="802332">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="802331">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="802339">
+            <LineStyle id="802341">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="802340">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="802348">
+            <LineStyle id="802350">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="802349">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="802357">
+            <LineStyle id="802359">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="802358">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="802366">
+            <LineStyle id="802368">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="802367">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="802375">
+            <LineStyle id="802377">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="802376">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="802384">
+            <LineStyle id="802386">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="802385">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="802393">
+            <LineStyle id="802395">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="802394">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="802402">
+            <LineStyle id="802404">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="802403">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="802411">
+            <LineStyle id="802413">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="802412">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="802420">
+            <LineStyle id="802422">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="802421">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="802429">
+            <LineStyle id="802431">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="802430">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="802438">
+            <LineStyle id="802440">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="802439">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="802447">
+            <LineStyle id="802449">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="802448">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="802456">
+            <LineStyle id="802458">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="802457">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="802465">
+            <LineStyle id="802467">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="802466">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="802474">
+            <LineStyle id="802476">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="802475">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="802483">
+            <LineStyle id="802485">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="802484">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="802492">
+            <LineStyle id="802494">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="802493">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="802501">
+            <LineStyle id="802503">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="802502">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="802510">
+            <LineStyle id="802512">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="802511">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="802519">
+            <LineStyle id="802521">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="802520">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="802528">
+            <LineStyle id="802530">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="802529">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="802537">
+            <LineStyle id="802539">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="802538">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="802546">
+            <LineStyle id="802548">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="802547">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="802555">
+            <LineStyle id="802557">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="802556">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="802564">
+            <LineStyle id="802566">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="802565">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="802573">
+            <LineStyle id="802575">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="802574">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="802582">
+            <LineStyle id="802584">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="802583">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="802591">
+            <LineStyle id="802593">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="802592">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="802600">
+            <LineStyle id="802602">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="802601">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="802609">
+            <LineStyle id="802611">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="802610">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="802618">
+            <LineStyle id="802620">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="802619">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="802627">
+            <LineStyle id="802629">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="802628">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="802636">
+            <LineStyle id="802638">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="802637">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="802645">
+            <LineStyle id="802647">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="802646">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="802654">
+            <LineStyle id="802656">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="802655">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="802663">
+            <LineStyle id="802665">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="802664">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="802672">
+            <LineStyle id="802674">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="802673">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="802681">
+            <LineStyle id="802683">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="802682">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="802690">
+            <LineStyle id="802692">
+                <color>ffffffff</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="802691">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Placemark id="801785">
+            <name>Parcel_87700</name>
+            <styleUrl>#801790</styleUrl>
+            <Polygon id="801784">
+                <outerBoundaryIs>
+                    <LinearRing id="801788">
+                        <coordinates>-78.91088080780827,33.66443434116653,0.0 -78.91090263041393,33.664415631114544,0.0 -78.91091714475274,33.66442723023981,0.0 -78.9109884626869,33.66436710228589,0.0 -78.91097235897517,33.66435324938423,0.0 -78.91103216857071,33.66430312071103,0.0 -78.91111665499685,33.66423230709176,0.0 -78.91113195372286,33.66424545908129,0.0 -78.91120326736906,33.66418549599127,0.0 -78.9111903836011,33.664174446690105,0.0 -78.91119865002601,33.66416749978766,0.0 -78.91126253537072,33.664113809544986,0.0 -78.9114526784985,33.66427235092892,0.0 -78.91145435449872,33.6642736988087,0.0 -78.91138993401228,33.664327573122065,0.0 -78.9113829829083,33.66433338596668,0.0 -78.91135559268973,33.66431040763303,0.0 -78.91131868256475,33.66434123391614,0.0 -78.91129047874205,33.66431791170241,0.0 -78.91121917766634,33.6643773528252,0.0 -78.91127719929395,33.66442523407392,0.0 -78.91129330705628,33.6644389219461,0.0 -78.911327954805,33.66446768720917,0.0 -78.91133681435923,33.664475204085356,0.0 -78.91128769404348,33.66451628391127,0.0 -78.91126550854338,33.66453483727045,0.0 -78.91125584866336,33.66452642655783,0.0 -78.91121878592524,33.66449555949742,0.0 -78.9112067031097,33.664485376081096,0.0 -78.91114868148077,33.66443749479976,0.0 -78.91107401875358,33.664499985337365,0.0 -78.9111022225991,33.664523306698264,0.0 -78.9110669886842,33.66455278757084,0.0 -78.91109437890285,33.66457576596752,0.0 -78.91102306884788,33.66463556400138,0.0 -78.91097230074544,33.66459363365989,0.0 -78.91083131569346,33.66447562197796,0.0 -78.91088080780827,33.66443434116653,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="801794">
+            <name>Parcel_87701</name>
+            <styleUrl>#801799</styleUrl>
+            <Polygon id="801793">
+                <outerBoundaryIs>
+                    <LinearRing id="801797">
+                        <coordinates>-78.91088080780827,33.66443434116653,0.0 -78.91090263041393,33.664415631114544,0.0 -78.91091714475274,33.66442723023981,0.0 -78.9109884626869,33.66436710228589,0.0 -78.91097235897517,33.66435324938423,0.0 -78.91103216857071,33.66430312071103,0.0 -78.91111665499685,33.66423230709176,0.0 -78.91113195372286,33.66424545908129,0.0 -78.91120326736906,33.66418549599127,0.0 -78.9111903836011,33.664174446690105,0.0 -78.91119865002601,33.66416749978766,0.0 -78.91126253537072,33.664113809544986,0.0 -78.9114526784985,33.66427235092892,0.0 -78.91145435449872,33.6642736988087,0.0 -78.91138993401228,33.664327573122065,0.0 -78.9113829829083,33.66433338596668,0.0 -78.91135559268973,33.66431040763303,0.0 -78.91131868256475,33.66434123391614,0.0 -78.91129047874205,33.66431791170241,0.0 -78.91121917766634,33.6643773528252,0.0 -78.91127719929395,33.66442523407392,0.0 -78.91129330705628,33.6644389219461,0.0 -78.911327954805,33.66446768720917,0.0 -78.91133681435923,33.664475204085356,0.0 -78.91128769404348,33.66451628391127,0.0 -78.91126550854338,33.66453483727045,0.0 -78.91125584866336,33.66452642655783,0.0 -78.91121878592524,33.66449555949742,0.0 -78.9112067031097,33.664485376081096,0.0 -78.91114868148077,33.66443749479976,0.0 -78.91107401875358,33.664499985337365,0.0 -78.9111022225991,33.664523306698264,0.0 -78.9110669886842,33.66455278757084,0.0 -78.91109437890285,33.66457576596752,0.0 -78.91102306884788,33.66463556400138,0.0 -78.91097230074544,33.66459363365989,0.0 -78.91083131569346,33.66447562197796,0.0 -78.91088080780827,33.66443434116653,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="801803">
+            <name>Parcel_87702</name>
+            <styleUrl>#801808</styleUrl>
+            <Polygon id="801802">
+                <outerBoundaryIs>
+                    <LinearRing id="801806">
+                        <coordinates>-78.91088080780827,33.66443434116653,0.0 -78.91090263041393,33.664415631114544,0.0 -78.91091714475274,33.66442723023981,0.0 -78.9109884626869,33.66436710228589,0.0 -78.91097235897517,33.66435324938423,0.0 -78.91103216857071,33.66430312071103,0.0 -78.91111665499685,33.66423230709176,0.0 -78.91113195372286,33.66424545908129,0.0 -78.91120326736906,33.66418549599127,0.0 -78.9111903836011,33.664174446690105,0.0 -78.91119865002601,33.66416749978766,0.0 -78.91126253537072,33.664113809544986,0.0 -78.9114526784985,33.66427235092892,0.0 -78.91145435449872,33.6642736988087,0.0 -78.91138993401228,33.664327573122065,0.0 -78.9113829829083,33.66433338596668,0.0 -78.91135559268973,33.66431040763303,0.0 -78.91131868256475,33.66434123391614,0.0 -78.91129047874205,33.66431791170241,0.0 -78.91121917766634,33.6643773528252,0.0 -78.91127719929395,33.66442523407392,0.0 -78.91129330705628,33.6644389219461,0.0 -78.911327954805,33.66446768720917,0.0 -78.91133681435923,33.664475204085356,0.0 -78.91128769404348,33.66451628391127,0.0 -78.91126550854338,33.66453483727045,0.0 -78.91125584866336,33.66452642655783,0.0 -78.91121878592524,33.66449555949742,0.0 -78.9112067031097,33.664485376081096,0.0 -78.91114868148077,33.66443749479976,0.0 -78.91107401875358,33.664499985337365,0.0 -78.9111022225991,33.664523306698264,0.0 -78.9110669886842,33.66455278757084,0.0 -78.91109437890285,33.66457576596752,0.0 -78.91102306884788,33.66463556400138,0.0 -78.91097230074544,33.66459363365989,0.0 -78.91083131569346,33.66447562197796,0.0 -78.91088080780827,33.66443434116653,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="801812">
+            <name>Parcel_87703</name>
+            <styleUrl>#801817</styleUrl>
+            <Polygon id="801811">
+                <outerBoundaryIs>
+                    <LinearRing id="801815">
+                        <coordinates>-78.91088080780827,33.66443434116653,0.0 -78.91090263041393,33.664415631114544,0.0 -78.91091714475274,33.66442723023981,0.0 -78.9109884626869,33.66436710228589,0.0 -78.91097235897517,33.66435324938423,0.0 -78.91103216857071,33.66430312071103,0.0 -78.91111665499685,33.66423230709176,0.0 -78.91113195372286,33.66424545908129,0.0 -78.91120326736906,33.66418549599127,0.0 -78.9111903836011,33.664174446690105,0.0 -78.91119865002601,33.66416749978766,0.0 -78.91126253537072,33.664113809544986,0.0 -78.9114526784985,33.66427235092892,0.0 -78.91145435449872,33.6642736988087,0.0 -78.91138993401228,33.664327573122065,0.0 -78.9113829829083,33.66433338596668,0.0 -78.91135559268973,33.66431040763303,0.0 -78.91131868256475,33.66434123391614,0.0 -78.91129047874205,33.66431791170241,0.0 -78.91121917766634,33.6643773528252,0.0 -78.91127719929395,33.66442523407392,0.0 -78.91129330705628,33.6644389219461,0.0 -78.911327954805,33.66446768720917,0.0 -78.91133681435923,33.664475204085356,0.0 -78.91128769404348,33.66451628391127,0.0 -78.91126550854338,33.66453483727045,0.0 -78.91125584866336,33.66452642655783,0.0 -78.91121878592524,33.66449555949742,0.0 -78.9112067031097,33.664485376081096,0.0 -78.91114868148077,33.66443749479976,0.0 -78.91107401875358,33.664499985337365,0.0 -78.9111022225991,33.664523306698264,0.0 -78.9110669886842,33.66455278757084,0.0 -78.91109437890285,33.66457576596752,0.0 -78.91102306884788,33.66463556400138,0.0 -78.91097230074544,33.66459363365989,0.0 -78.91083131569346,33.66447562197796,0.0 -78.91088080780827,33.66443434116653,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="801821">
+            <name>Parcel_87704</name>
+            <styleUrl>#801826</styleUrl>
+            <Polygon id="801820">
+                <outerBoundaryIs>
+                    <LinearRing id="801824">
+                        <coordinates>-78.91088080780827,33.66443434116653,0.0 -78.91090263041393,33.664415631114544,0.0 -78.91091714475274,33.66442723023981,0.0 -78.9109884626869,33.66436710228589,0.0 -78.91097235897517,33.66435324938423,0.0 -78.91103216857071,33.66430312071103,0.0 -78.91111665499685,33.66423230709176,0.0 -78.91113195372286,33.66424545908129,0.0 -78.91120326736906,33.66418549599127,0.0 -78.9111903836011,33.664174446690105,0.0 -78.91119865002601,33.66416749978766,0.0 -78.91126253537072,33.664113809544986,0.0 -78.9114526784985,33.66427235092892,0.0 -78.91145435449872,33.6642736988087,0.0 -78.91138993401228,33.664327573122065,0.0 -78.9113829829083,33.66433338596668,0.0 -78.91135559268973,33.66431040763303,0.0 -78.91131868256475,33.66434123391614,0.0 -78.91129047874205,33.66431791170241,0.0 -78.91121917766634,33.6643773528252,0.0 -78.91127719929395,33.66442523407392,0.0 -78.91129330705628,33.6644389219461,0.0 -78.911327954805,33.66446768720917,0.0 -78.91133681435923,33.664475204085356,0.0 -78.91128769404348,33.66451628391127,0.0 -78.91126550854338,33.66453483727045,0.0 -78.91125584866336,33.66452642655783,0.0 -78.91121878592524,33.66449555949742,0.0 -78.9112067031097,33.664485376081096,0.0 -78.91114868148077,33.66443749479976,0.0 -78.91107401875358,33.664499985337365,0.0 -78.9111022225991,33.664523306698264,0.0 -78.9110669886842,33.66455278757084,0.0 -78.91109437890285,33.66457576596752,0.0 -78.91102306884788,33.66463556400138,0.0 -78.91097230074544,33.66459363365989,0.0 -78.91083131569346,33.66447562197796,0.0 -78.91088080780827,33.66443434116653,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="801830">
+            <name>Parcel_87705</name>
+            <styleUrl>#801835</styleUrl>
+            <Polygon id="801829">
+                <outerBoundaryIs>
+                    <LinearRing id="801833">
+                        <coordinates>-78.91088080780827,33.66443434116653,0.0 -78.91090263041393,33.664415631114544,0.0 -78.91091714475274,33.66442723023981,0.0 -78.9109884626869,33.66436710228589,0.0 -78.91097235897517,33.66435324938423,0.0 -78.91103216857071,33.66430312071103,0.0 -78.91111665499685,33.66423230709176,0.0 -78.91113195372286,33.66424545908129,0.0 -78.91120326736906,33.66418549599127,0.0 -78.9111903836011,33.664174446690105,0.0 -78.91119865002601,33.66416749978766,0.0 -78.91126253537072,33.664113809544986,0.0 -78.9114526784985,33.66427235092892,0.0 -78.91145435449872,33.6642736988087,0.0 -78.91138993401228,33.664327573122065,0.0 -78.9113829829083,33.66433338596668,0.0 -78.91135559268973,33.66431040763303,0.0 -78.91131868256475,33.66434123391614,0.0 -78.91129047874205,33.66431791170241,0.0 -78.91121917766634,33.6643773528252,0.0 -78.91127719929395,33.66442523407392,0.0 -78.91129330705628,33.6644389219461,0.0 -78.911327954805,33.66446768720917,0.0 -78.91133681435923,33.664475204085356,0.0 -78.91128769404348,33.66451628391127,0.0 -78.91126550854338,33.66453483727045,0.0 -78.91125584866336,33.66452642655783,0.0 -78.91121878592524,33.66449555949742,0.0 -78.9112067031097,33.664485376081096,0.0 -78.91114868148077,33.66443749479976,0.0 -78.91107401875358,33.664499985337365,0.0 -78.9111022225991,33.664523306698264,0.0 -78.9110669886842,33.66455278757084,0.0 -78.91109437890285,33.66457576596752,0.0 -78.91102306884788,33.66463556400138,0.0 -78.91097230074544,33.66459363365989,0.0 -78.91083131569346,33.66447562197796,0.0 -78.91088080780827,33.66443434116653,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="801839">
+            <name>Parcel_87706</name>
+            <styleUrl>#801844</styleUrl>
+            <Polygon id="801838">
+                <outerBoundaryIs>
+                    <LinearRing id="801842">
+                        <coordinates>-78.91088080780827,33.66443434116653,0.0 -78.91090263041393,33.664415631114544,0.0 -78.91091714475274,33.66442723023981,0.0 -78.9109884626869,33.66436710228589,0.0 -78.91097235897517,33.66435324938423,0.0 -78.91103216857071,33.66430312071103,0.0 -78.91111665499685,33.66423230709176,0.0 -78.91113195372286,33.66424545908129,0.0 -78.91120326736906,33.66418549599127,0.0 -78.9111903836011,33.664174446690105,0.0 -78.91119865002601,33.66416749978766,0.0 -78.91126253537072,33.664113809544986,0.0 -78.9114526784985,33.66427235092892,0.0 -78.91145435449872,33.6642736988087,0.0 -78.91138993401228,33.664327573122065,0.0 -78.9113829829083,33.66433338596668,0.0 -78.91135559268973,33.66431040763303,0.0 -78.91131868256475,33.66434123391614,0.0 -78.91129047874205,33.66431791170241,0.0 -78.91121917766634,33.6643773528252,0.0 -78.91127719929395,33.66442523407392,0.0 -78.91129330705628,33.6644389219461,0.0 -78.911327954805,33.66446768720917,0.0 -78.91133681435923,33.664475204085356,0.0 -78.91128769404348,33.66451628391127,0.0 -78.91126550854338,33.66453483727045,0.0 -78.91125584866336,33.66452642655783,0.0 -78.91121878592524,33.66449555949742,0.0 -78.9112067031097,33.664485376081096,0.0 -78.91114868148077,33.66443749479976,0.0 -78.91107401875358,33.664499985337365,0.0 -78.9111022225991,33.664523306698264,0.0 -78.9110669886842,33.66455278757084,0.0 -78.91109437890285,33.66457576596752,0.0 -78.91102306884788,33.66463556400138,0.0 -78.91097230074544,33.66459363365989,0.0 -78.91083131569346,33.66447562197796,0.0 -78.91088080780827,33.66443434116653,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="801848">
+            <name>Parcel_87707</name>
+            <styleUrl>#801853</styleUrl>
+            <Polygon id="801847">
+                <outerBoundaryIs>
+                    <LinearRing id="801851">
+                        <coordinates>-78.91088080780827,33.66443434116653,0.0 -78.91090263041393,33.664415631114544,0.0 -78.91091714475274,33.66442723023981,0.0 -78.9109884626869,33.66436710228589,0.0 -78.91097235897517,33.66435324938423,0.0 -78.91103216857071,33.66430312071103,0.0 -78.91111665499685,33.66423230709176,0.0 -78.91113195372286,33.66424545908129,0.0 -78.91120326736906,33.66418549599127,0.0 -78.9111903836011,33.664174446690105,0.0 -78.91119865002601,33.66416749978766,0.0 -78.91126253537072,33.664113809544986,0.0 -78.9114526784985,33.66427235092892,0.0 -78.91145435449872,33.6642736988087,0.0 -78.91138993401228,33.664327573122065,0.0 -78.9113829829083,33.66433338596668,0.0 -78.91135559268973,33.66431040763303,0.0 -78.91131868256475,33.66434123391614,0.0 -78.91129047874205,33.66431791170241,0.0 -78.91121917766634,33.6643773528252,0.0 -78.91127719929395,33.66442523407392,0.0 -78.91129330705628,33.6644389219461,0.0 -78.911327954805,33.66446768720917,0.0 -78.91133681435923,33.664475204085356,0.0 -78.91128769404348,33.66451628391127,0.0 -78.91126550854338,33.66453483727045,0.0 -78.91125584866336,33.66452642655783,0.0 -78.91121878592524,33.66449555949742,0.0 -78.9112067031097,33.664485376081096,0.0 -78.91114868148077,33.66443749479976,0.0 -78.91107401875358,33.664499985337365,0.0 -78.9111022225991,33.664523306698264,0.0 -78.9110669886842,33.66455278757084,0.0 -78.91109437890285,33.66457576596752,0.0 -78.91102306884788,33.66463556400138,0.0 -78.91097230074544,33.66459363365989,0.0 -78.91083131569346,33.66447562197796,0.0 -78.91088080780827,33.66443434116653,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="801857">
+            <name>Parcel_87708</name>
+            <styleUrl>#801862</styleUrl>
+            <Polygon id="801856">
+                <outerBoundaryIs>
+                    <LinearRing id="801860">
+                        <coordinates>-78.91088080780827,33.66443434116653,0.0 -78.91090263041393,33.664415631114544,0.0 -78.91091714475274,33.66442723023981,0.0 -78.9109884626869,33.66436710228589,0.0 -78.91097235897517,33.66435324938423,0.0 -78.91103216857071,33.66430312071103,0.0 -78.91111665499685,33.66423230709176,0.0 -78.91113195372286,33.66424545908129,0.0 -78.91120326736906,33.66418549599127,0.0 -78.9111903836011,33.664174446690105,0.0 -78.91119865002601,33.66416749978766,0.0 -78.91126253537072,33.664113809544986,0.0 -78.9114526784985,33.66427235092892,0.0 -78.91145435449872,33.6642736988087,0.0 -78.91138993401228,33.664327573122065,0.0 -78.9113829829083,33.66433338596668,0.0 -78.91135559268973,33.66431040763303,0.0 -78.91131868256475,33.66434123391614,0.0 -78.91129047874205,33.66431791170241,0.0 -78.91121917766634,33.6643773528252,0.0 -78.91127719929395,33.66442523407392,0.0 -78.91129330705628,33.6644389219461,0.0 -78.911327954805,33.66446768720917,0.0 -78.91133681435923,33.664475204085356,0.0 -78.91128769404348,33.66451628391127,0.0 -78.91126550854338,33.66453483727045,0.0 -78.91125584866336,33.66452642655783,0.0 -78.91121878592524,33.66449555949742,0.0 -78.9112067031097,33.664485376081096,0.0 -78.91114868148077,33.66443749479976,0.0 -78.91107401875358,33.664499985337365,0.0 -78.9111022225991,33.664523306698264,0.0 -78.9110669886842,33.66455278757084,0.0 -78.91109437890285,33.66457576596752,0.0 -78.91102306884788,33.66463556400138,0.0 -78.91097230074544,33.66459363365989,0.0 -78.91083131569346,33.66447562197796,0.0 -78.91088080780827,33.66443434116653,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="801866">
+            <name>Parcel_87709</name>
+            <styleUrl>#801871</styleUrl>
+            <Polygon id="801865">
+                <outerBoundaryIs>
+                    <LinearRing id="801869">
+                        <coordinates>-78.91088080780827,33.66443434116653,0.0 -78.91090263041393,33.664415631114544,0.0 -78.91091714475274,33.66442723023981,0.0 -78.9109884626869,33.66436710228589,0.0 -78.91097235897517,33.66435324938423,0.0 -78.91103216857071,33.66430312071103,0.0 -78.91111665499685,33.66423230709176,0.0 -78.91113195372286,33.66424545908129,0.0 -78.91120326736906,33.66418549599127,0.0 -78.9111903836011,33.664174446690105,0.0 -78.91119865002601,33.66416749978766,0.0 -78.91126253537072,33.664113809544986,0.0 -78.9114526784985,33.66427235092892,0.0 -78.91145435449872,33.6642736988087,0.0 -78.91138993401228,33.664327573122065,0.0 -78.9113829829083,33.66433338596668,0.0 -78.91135559268973,33.66431040763303,0.0 -78.91131868256475,33.66434123391614,0.0 -78.91129047874205,33.66431791170241,0.0 -78.91121917766634,33.6643773528252,0.0 -78.91127719929395,33.66442523407392,0.0 -78.91129330705628,33.6644389219461,0.0 -78.911327954805,33.66446768720917,0.0 -78.91133681435923,33.664475204085356,0.0 -78.91128769404348,33.66451628391127,0.0 -78.91126550854338,33.66453483727045,0.0 -78.91125584866336,33.66452642655783,0.0 -78.91121878592524,33.66449555949742,0.0 -78.9112067031097,33.664485376081096,0.0 -78.91114868148077,33.66443749479976,0.0 -78.91107401875358,33.664499985337365,0.0 -78.9111022225991,33.664523306698264,0.0 -78.9110669886842,33.66455278757084,0.0 -78.91109437890285,33.66457576596752,0.0 -78.91102306884788,33.66463556400138,0.0 -78.91097230074544,33.66459363365989,0.0 -78.91083131569346,33.66447562197796,0.0 -78.91088080780827,33.66443434116653,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="801875">
+            <name>Parcel_87710</name>
+            <styleUrl>#801880</styleUrl>
+            <Polygon id="801874">
+                <outerBoundaryIs>
+                    <LinearRing id="801878">
+                        <coordinates>-78.91088080780827,33.66443434116653,0.0 -78.91090263041393,33.664415631114544,0.0 -78.91091714475274,33.66442723023981,0.0 -78.9109884626869,33.66436710228589,0.0 -78.91097235897517,33.66435324938423,0.0 -78.91103216857071,33.66430312071103,0.0 -78.91111665499685,33.66423230709176,0.0 -78.91113195372286,33.66424545908129,0.0 -78.91120326736906,33.66418549599127,0.0 -78.9111903836011,33.664174446690105,0.0 -78.91119865002601,33.66416749978766,0.0 -78.91126253537072,33.664113809544986,0.0 -78.9114526784985,33.66427235092892,0.0 -78.91145435449872,33.6642736988087,0.0 -78.91138993401228,33.664327573122065,0.0 -78.9113829829083,33.66433338596668,0.0 -78.91135559268973,33.66431040763303,0.0 -78.91131868256475,33.66434123391614,0.0 -78.91129047874205,33.66431791170241,0.0 -78.91121917766634,33.6643773528252,0.0 -78.91127719929395,33.66442523407392,0.0 -78.91129330705628,33.6644389219461,0.0 -78.911327954805,33.66446768720917,0.0 -78.91133681435923,33.664475204085356,0.0 -78.91128769404348,33.66451628391127,0.0 -78.91126550854338,33.66453483727045,0.0 -78.91125584866336,33.66452642655783,0.0 -78.91121878592524,33.66449555949742,0.0 -78.9112067031097,33.664485376081096,0.0 -78.91114868148077,33.66443749479976,0.0 -78.91107401875358,33.664499985337365,0.0 -78.9111022225991,33.664523306698264,0.0 -78.9110669886842,33.66455278757084,0.0 -78.91109437890285,33.66457576596752,0.0 -78.91102306884788,33.66463556400138,0.0 -78.91097230074544,33.66459363365989,0.0 -78.91083131569346,33.66447562197796,0.0 -78.91088080780827,33.66443434116653,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="801884">
+            <name>Parcel_87711</name>
+            <styleUrl>#801889</styleUrl>
+            <Polygon id="801883">
+                <outerBoundaryIs>
+                    <LinearRing id="801887">
+                        <coordinates>-78.91088080780827,33.66443434116653,0.0 -78.91090263041393,33.664415631114544,0.0 -78.91091714475274,33.66442723023981,0.0 -78.9109884626869,33.66436710228589,0.0 -78.91097235897517,33.66435324938423,0.0 -78.91103216857071,33.66430312071103,0.0 -78.91111665499685,33.66423230709176,0.0 -78.91113195372286,33.66424545908129,0.0 -78.91120326736906,33.66418549599127,0.0 -78.9111903836011,33.664174446690105,0.0 -78.91119865002601,33.66416749978766,0.0 -78.91126253537072,33.664113809544986,0.0 -78.9114526784985,33.66427235092892,0.0 -78.91145435449872,33.6642736988087,0.0 -78.91138993401228,33.664327573122065,0.0 -78.9113829829083,33.66433338596668,0.0 -78.91135559268973,33.66431040763303,0.0 -78.91131868256475,33.66434123391614,0.0 -78.91129047874205,33.66431791170241,0.0 -78.91121917766634,33.6643773528252,0.0 -78.91127719929395,33.66442523407392,0.0 -78.91129330705628,33.6644389219461,0.0 -78.911327954805,33.66446768720917,0.0 -78.91133681435923,33.664475204085356,0.0 -78.91128769404348,33.66451628391127,0.0 -78.91126550854338,33.66453483727045,0.0 -78.91125584866336,33.66452642655783,0.0 -78.91121878592524,33.66449555949742,0.0 -78.9112067031097,33.664485376081096,0.0 -78.91114868148077,33.66443749479976,0.0 -78.91107401875358,33.664499985337365,0.0 -78.9111022225991,33.664523306698264,0.0 -78.9110669886842,33.66455278757084,0.0 -78.91109437890285,33.66457576596752,0.0 -78.91102306884788,33.66463556400138,0.0 -78.91097230074544,33.66459363365989,0.0 -78.91083131569346,33.66447562197796,0.0 -78.91088080780827,33.66443434116653,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="801893">
+            <name>Parcel_87712</name>
+            <styleUrl>#801898</styleUrl>
+            <Polygon id="801892">
+                <outerBoundaryIs>
+                    <LinearRing id="801896">
+                        <coordinates>-78.91088080780827,33.66443434116653,0.0 -78.91090263041393,33.664415631114544,0.0 -78.91091714475274,33.66442723023981,0.0 -78.9109884626869,33.66436710228589,0.0 -78.91097235897517,33.66435324938423,0.0 -78.91103216857071,33.66430312071103,0.0 -78.91111665499685,33.66423230709176,0.0 -78.91113195372286,33.66424545908129,0.0 -78.91120326736906,33.66418549599127,0.0 -78.9111903836011,33.664174446690105,0.0 -78.91119865002601,33.66416749978766,0.0 -78.91126253537072,33.664113809544986,0.0 -78.9114526784985,33.66427235092892,0.0 -78.91145435449872,33.6642736988087,0.0 -78.91138993401228,33.664327573122065,0.0 -78.9113829829083,33.66433338596668,0.0 -78.91135559268973,33.66431040763303,0.0 -78.91131868256475,33.66434123391614,0.0 -78.91129047874205,33.66431791170241,0.0 -78.91121917766634,33.6643773528252,0.0 -78.91127719929395,33.66442523407392,0.0 -78.91129330705628,33.6644389219461,0.0 -78.911327954805,33.66446768720917,0.0 -78.91133681435923,33.664475204085356,0.0 -78.91128769404348,33.66451628391127,0.0 -78.91126550854338,33.66453483727045,0.0 -78.91125584866336,33.66452642655783,0.0 -78.91121878592524,33.66449555949742,0.0 -78.9112067031097,33.664485376081096,0.0 -78.91114868148077,33.66443749479976,0.0 -78.91107401875358,33.664499985337365,0.0 -78.9111022225991,33.664523306698264,0.0 -78.9110669886842,33.66455278757084,0.0 -78.91109437890285,33.66457576596752,0.0 -78.91102306884788,33.66463556400138,0.0 -78.91097230074544,33.66459363365989,0.0 -78.91083131569346,33.66447562197796,0.0 -78.91088080780827,33.66443434116653,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="801902">
+            <name>Parcel_87713</name>
+            <styleUrl>#801907</styleUrl>
+            <Polygon id="801901">
+                <outerBoundaryIs>
+                    <LinearRing id="801905">
+                        <coordinates>-78.91088080780827,33.66443434116653,0.0 -78.91090263041393,33.664415631114544,0.0 -78.91091714475274,33.66442723023981,0.0 -78.9109884626869,33.66436710228589,0.0 -78.91097235897517,33.66435324938423,0.0 -78.91103216857071,33.66430312071103,0.0 -78.91111665499685,33.66423230709176,0.0 -78.91113195372286,33.66424545908129,0.0 -78.91120326736906,33.66418549599127,0.0 -78.9111903836011,33.664174446690105,0.0 -78.91119865002601,33.66416749978766,0.0 -78.91126253537072,33.664113809544986,0.0 -78.9114526784985,33.66427235092892,0.0 -78.91145435449872,33.6642736988087,0.0 -78.91138993401228,33.664327573122065,0.0 -78.9113829829083,33.66433338596668,0.0 -78.91135559268973,33.66431040763303,0.0 -78.91131868256475,33.66434123391614,0.0 -78.91129047874205,33.66431791170241,0.0 -78.91121917766634,33.6643773528252,0.0 -78.91127719929395,33.66442523407392,0.0 -78.91129330705628,33.6644389219461,0.0 -78.911327954805,33.66446768720917,0.0 -78.91133681435923,33.664475204085356,0.0 -78.91128769404348,33.66451628391127,0.0 -78.91126550854338,33.66453483727045,0.0 -78.91125584866336,33.66452642655783,0.0 -78.91121878592524,33.66449555949742,0.0 -78.9112067031097,33.664485376081096,0.0 -78.91114868148077,33.66443749479976,0.0 -78.91107401875358,33.664499985337365,0.0 -78.9111022225991,33.664523306698264,0.0 -78.9110669886842,33.66455278757084,0.0 -78.91109437890285,33.66457576596752,0.0 -78.91102306884788,33.66463556400138,0.0 -78.91097230074544,33.66459363365989,0.0 -78.91083131569346,33.66447562197796,0.0 -78.91088080780827,33.66443434116653,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="801911">
+            <name>Parcel_87714</name>
+            <styleUrl>#801916</styleUrl>
+            <Polygon id="801910">
+                <outerBoundaryIs>
+                    <LinearRing id="801914">
+                        <coordinates>-78.91088080780827,33.66443434116653,0.0 -78.91090263041393,33.664415631114544,0.0 -78.91091714475274,33.66442723023981,0.0 -78.9109884626869,33.66436710228589,0.0 -78.91097235897517,33.66435324938423,0.0 -78.91103216857071,33.66430312071103,0.0 -78.91111665499685,33.66423230709176,0.0 -78.91113195372286,33.66424545908129,0.0 -78.91120326736906,33.66418549599127,0.0 -78.9111903836011,33.664174446690105,0.0 -78.91119865002601,33.66416749978766,0.0 -78.91126253537072,33.664113809544986,0.0 -78.9114526784985,33.66427235092892,0.0 -78.91145435449872,33.6642736988087,0.0 -78.91138993401228,33.664327573122065,0.0 -78.9113829829083,33.66433338596668,0.0 -78.91135559268973,33.66431040763303,0.0 -78.91131868256475,33.66434123391614,0.0 -78.91129047874205,33.66431791170241,0.0 -78.91121917766634,33.6643773528252,0.0 -78.91127719929395,33.66442523407392,0.0 -78.91129330705628,33.6644389219461,0.0 -78.911327954805,33.66446768720917,0.0 -78.91133681435923,33.664475204085356,0.0 -78.91128769404348,33.66451628391127,0.0 -78.91126550854338,33.66453483727045,0.0 -78.91125584866336,33.66452642655783,0.0 -78.91121878592524,33.66449555949742,0.0 -78.9112067031097,33.664485376081096,0.0 -78.91114868148077,33.66443749479976,0.0 -78.91107401875358,33.664499985337365,0.0 -78.9111022225991,33.664523306698264,0.0 -78.9110669886842,33.66455278757084,0.0 -78.91109437890285,33.66457576596752,0.0 -78.91102306884788,33.66463556400138,0.0 -78.91097230074544,33.66459363365989,0.0 -78.91083131569346,33.66447562197796,0.0 -78.91088080780827,33.66443434116653,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="801920">
+            <name>Parcel_87715</name>
+            <styleUrl>#801925</styleUrl>
+            <Polygon id="801919">
+                <outerBoundaryIs>
+                    <LinearRing id="801923">
+                        <coordinates>-78.91088080780827,33.66443434116653,0.0 -78.91090263041393,33.664415631114544,0.0 -78.91091714475274,33.66442723023981,0.0 -78.9109884626869,33.66436710228589,0.0 -78.91097235897517,33.66435324938423,0.0 -78.91103216857071,33.66430312071103,0.0 -78.91111665499685,33.66423230709176,0.0 -78.91113195372286,33.66424545908129,0.0 -78.91120326736906,33.66418549599127,0.0 -78.9111903836011,33.664174446690105,0.0 -78.91119865002601,33.66416749978766,0.0 -78.91126253537072,33.664113809544986,0.0 -78.9114526784985,33.66427235092892,0.0 -78.91145435449872,33.6642736988087,0.0 -78.91138993401228,33.664327573122065,0.0 -78.9113829829083,33.66433338596668,0.0 -78.91135559268973,33.66431040763303,0.0 -78.91131868256475,33.66434123391614,0.0 -78.91129047874205,33.66431791170241,0.0 -78.91121917766634,33.6643773528252,0.0 -78.91127719929395,33.66442523407392,0.0 -78.91129330705628,33.6644389219461,0.0 -78.911327954805,33.66446768720917,0.0 -78.91133681435923,33.664475204085356,0.0 -78.91128769404348,33.66451628391127,0.0 -78.91126550854338,33.66453483727045,0.0 -78.91125584866336,33.66452642655783,0.0 -78.91121878592524,33.66449555949742,0.0 -78.9112067031097,33.664485376081096,0.0 -78.91114868148077,33.66443749479976,0.0 -78.91107401875358,33.664499985337365,0.0 -78.9111022225991,33.664523306698264,0.0 -78.9110669886842,33.66455278757084,0.0 -78.91109437890285,33.66457576596752,0.0 -78.91102306884788,33.66463556400138,0.0 -78.91097230074544,33.66459363365989,0.0 -78.91083131569346,33.66447562197796,0.0 -78.91088080780827,33.66443434116653,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="801929">
+            <name>Parcel_87716</name>
+            <styleUrl>#801934</styleUrl>
+            <Polygon id="801928">
+                <outerBoundaryIs>
+                    <LinearRing id="801932">
+                        <coordinates>-78.91088080780827,33.66443434116653,0.0 -78.91090263041393,33.664415631114544,0.0 -78.91091714475274,33.66442723023981,0.0 -78.9109884626869,33.66436710228589,0.0 -78.91097235897517,33.66435324938423,0.0 -78.91103216857071,33.66430312071103,0.0 -78.91111665499685,33.66423230709176,0.0 -78.91113195372286,33.66424545908129,0.0 -78.91120326736906,33.66418549599127,0.0 -78.9111903836011,33.664174446690105,0.0 -78.91119865002601,33.66416749978766,0.0 -78.91126253537072,33.664113809544986,0.0 -78.9114526784985,33.66427235092892,0.0 -78.91145435449872,33.6642736988087,0.0 -78.91138993401228,33.664327573122065,0.0 -78.9113829829083,33.66433338596668,0.0 -78.91135559268973,33.66431040763303,0.0 -78.91131868256475,33.66434123391614,0.0 -78.91129047874205,33.66431791170241,0.0 -78.91121917766634,33.6643773528252,0.0 -78.91127719929395,33.66442523407392,0.0 -78.91129330705628,33.6644389219461,0.0 -78.911327954805,33.66446768720917,0.0 -78.91133681435923,33.664475204085356,0.0 -78.91128769404348,33.66451628391127,0.0 -78.91126550854338,33.66453483727045,0.0 -78.91125584866336,33.66452642655783,0.0 -78.91121878592524,33.66449555949742,0.0 -78.9112067031097,33.664485376081096,0.0 -78.91114868148077,33.66443749479976,0.0 -78.91107401875358,33.664499985337365,0.0 -78.9111022225991,33.664523306698264,0.0 -78.9110669886842,33.66455278757084,0.0 -78.91109437890285,33.66457576596752,0.0 -78.91102306884788,33.66463556400138,0.0 -78.91097230074544,33.66459363365989,0.0 -78.91083131569346,33.66447562197796,0.0 -78.91088080780827,33.66443434116653,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="801938">
+            <name>Parcel_87717</name>
+            <styleUrl>#801943</styleUrl>
+            <Polygon id="801937">
+                <outerBoundaryIs>
+                    <LinearRing id="801941">
+                        <coordinates>-78.91261207771316,33.666928960224034,0.0 -78.91261211183563,33.666928931937974,0.0 -78.91275233758725,33.66704470349762,0.0 -78.91275231340849,33.66704472203018,0.0 -78.91227790206106,33.66742551940094,0.0 -78.91213526033178,33.667307816906884,0.0 -78.91261207771316,33.666928960224034,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="801947">
+            <name>Parcel_87718</name>
+            <styleUrl>#801952</styleUrl>
+            <Polygon id="801946">
+                <outerBoundaryIs>
+                    <LinearRing id="801950">
+                        <coordinates>-78.91389088606469,33.66458815214284,0.0 -78.91408543475313,33.66442820568437,0.0 -78.91414650911305,33.664478336041554,0.0 -78.91416280823154,33.664491711980986,0.0 -78.91416279723175,33.66449172081485,0.0 -78.91396825738686,33.66465165852323,0.0 -78.91389088606469,33.66458815214284,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="801956">
+            <name>Parcel_87719</name>
+            <styleUrl>#801961</styleUrl>
+            <Polygon id="801955">
+                <outerBoundaryIs>
+                    <LinearRing id="801959">
+                        <coordinates>-78.91463444438733,33.66434872943211,0.0 -78.91474636321708,33.66425413999307,0.0 -78.91474646782747,33.664254230149425,0.0 -78.9149759476333,33.66444753340009,0.0 -78.91490713018342,33.66450633844187,0.0 -78.91444598266537,33.66450800558994,0.0 -78.91463444438733,33.66434872943211,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="801965">
+            <name>Parcel_87720</name>
+            <styleUrl>#801970</styleUrl>
+            <Polygon id="801964">
+                <outerBoundaryIs>
+                    <LinearRing id="801968">
+                        <coordinates>-78.9109724636612,33.6663483798921,0.0 -78.91120393190187,33.66615358371931,0.0 -78.9112410130319,33.66618376378844,0.0 -78.91100944236022,33.66637864759134,0.0 -78.91098842059382,33.66636153760373,0.0 -78.91097236232747,33.66634846657026,0.0 -78.9109724636612,33.6663483798921,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="801974">
+            <name>Parcel_87721</name>
+            <styleUrl>#801979</styleUrl>
+            <Polygon id="801973">
+                <outerBoundaryIs>
+                    <LinearRing id="801977">
+                        <coordinates>-78.91087484471115,33.6662682969503,0.0 -78.91110641433423,33.66607341247635,0.0 -78.91110661956586,33.666073579198525,0.0 -78.91116525122848,33.66612165928773,0.0 -78.9111676704255,33.666123588863385,0.0 -78.9109360986714,33.6663184725125,0.0 -78.91090785634731,33.66629533718295,0.0 -78.91087484471115,33.6662682969503,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="801983">
+            <name>Parcel_87722</name>
+            <styleUrl>#801988</styleUrl>
+            <Polygon id="801982">
+                <outerBoundaryIs>
+                    <LinearRing id="801986">
+                        <coordinates>-78.91088080780827,33.66443434116653,0.0 -78.91090263041393,33.664415631114544,0.0 -78.91091714475274,33.66442723023981,0.0 -78.9109884626869,33.66436710228589,0.0 -78.91097235897517,33.66435324938423,0.0 -78.91103216857071,33.66430312071103,0.0 -78.91111665499685,33.66423230709176,0.0 -78.91113195372286,33.66424545908129,0.0 -78.91120326736906,33.66418549599127,0.0 -78.9111903836011,33.664174446690105,0.0 -78.91119865002601,33.66416749978766,0.0 -78.91126253537072,33.664113809544986,0.0 -78.9114526784985,33.66427235092892,0.0 -78.91145435449872,33.6642736988087,0.0 -78.91138993401228,33.664327573122065,0.0 -78.9113829829083,33.66433338596668,0.0 -78.91135559268973,33.66431040763303,0.0 -78.91131868256475,33.66434123391614,0.0 -78.91129047874205,33.66431791170241,0.0 -78.91121917766634,33.6643773528252,0.0 -78.91127719929395,33.66442523407392,0.0 -78.91129330705628,33.6644389219461,0.0 -78.911327954805,33.66446768720917,0.0 -78.91133681435923,33.664475204085356,0.0 -78.91128769404348,33.66451628391127,0.0 -78.91126550854338,33.66453483727045,0.0 -78.91125584866336,33.66452642655783,0.0 -78.91121878592524,33.66449555949742,0.0 -78.9112067031097,33.664485376081096,0.0 -78.91114868148077,33.66443749479976,0.0 -78.91107401875358,33.664499985337365,0.0 -78.9111022225991,33.664523306698264,0.0 -78.9110669886842,33.66455278757084,0.0 -78.91109437890285,33.66457576596752,0.0 -78.91102306884788,33.66463556400138,0.0 -78.91097230074544,33.66459363365989,0.0 -78.91083131569346,33.66447562197796,0.0 -78.91088080780827,33.66443434116653,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="801992">
+            <name>Parcel_87723</name>
+            <styleUrl>#801997</styleUrl>
+            <Polygon id="801991">
+                <outerBoundaryIs>
+                    <LinearRing id="801995">
+                        <coordinates>-78.91088080780827,33.66443434116653,0.0 -78.91090263041393,33.664415631114544,0.0 -78.91091714475274,33.66442723023981,0.0 -78.9109884626869,33.66436710228589,0.0 -78.91097235897517,33.66435324938423,0.0 -78.91103216857071,33.66430312071103,0.0 -78.91111665499685,33.66423230709176,0.0 -78.91113195372286,33.66424545908129,0.0 -78.91120326736906,33.66418549599127,0.0 -78.9111903836011,33.664174446690105,0.0 -78.91119865002601,33.66416749978766,0.0 -78.91126253537072,33.664113809544986,0.0 -78.9114526784985,33.66427235092892,0.0 -78.91145435449872,33.6642736988087,0.0 -78.91138993401228,33.664327573122065,0.0 -78.9113829829083,33.66433338596668,0.0 -78.91135559268973,33.66431040763303,0.0 -78.91131868256475,33.66434123391614,0.0 -78.91129047874205,33.66431791170241,0.0 -78.91121917766634,33.6643773528252,0.0 -78.91127719929395,33.66442523407392,0.0 -78.91129330705628,33.6644389219461,0.0 -78.911327954805,33.66446768720917,0.0 -78.91133681435923,33.664475204085356,0.0 -78.91128769404348,33.66451628391127,0.0 -78.91126550854338,33.66453483727045,0.0 -78.91125584866336,33.66452642655783,0.0 -78.91121878592524,33.66449555949742,0.0 -78.9112067031097,33.664485376081096,0.0 -78.91114868148077,33.66443749479976,0.0 -78.91107401875358,33.664499985337365,0.0 -78.9111022225991,33.664523306698264,0.0 -78.9110669886842,33.66455278757084,0.0 -78.91109437890285,33.66457576596752,0.0 -78.91102306884788,33.66463556400138,0.0 -78.91097230074544,33.66459363365989,0.0 -78.91083131569346,33.66447562197796,0.0 -78.91088080780827,33.66443434116653,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="802001">
+            <name>Parcel_87724</name>
+            <styleUrl>#802006</styleUrl>
+            <Polygon id="802000">
+                <outerBoundaryIs>
+                    <LinearRing id="802004">
+                        <coordinates>-78.91088080780827,33.66443434116653,0.0 -78.91090263041393,33.664415631114544,0.0 -78.91091714475274,33.66442723023981,0.0 -78.9109884626869,33.66436710228589,0.0 -78.91097235897517,33.66435324938423,0.0 -78.91103216857071,33.66430312071103,0.0 -78.91111665499685,33.66423230709176,0.0 -78.91113195372286,33.66424545908129,0.0 -78.91120326736906,33.66418549599127,0.0 -78.9111903836011,33.664174446690105,0.0 -78.91119865002601,33.66416749978766,0.0 -78.91126253537072,33.664113809544986,0.0 -78.9114526784985,33.66427235092892,0.0 -78.91145435449872,33.6642736988087,0.0 -78.91138993401228,33.664327573122065,0.0 -78.9113829829083,33.66433338596668,0.0 -78.91135559268973,33.66431040763303,0.0 -78.91131868256475,33.66434123391614,0.0 -78.91129047874205,33.66431791170241,0.0 -78.91121917766634,33.6643773528252,0.0 -78.91127719929395,33.66442523407392,0.0 -78.91129330705628,33.6644389219461,0.0 -78.911327954805,33.66446768720917,0.0 -78.91133681435923,33.664475204085356,0.0 -78.91128769404348,33.66451628391127,0.0 -78.91126550854338,33.66453483727045,0.0 -78.91125584866336,33.66452642655783,0.0 -78.91121878592524,33.66449555949742,0.0 -78.9112067031097,33.664485376081096,0.0 -78.91114868148077,33.66443749479976,0.0 -78.91107401875358,33.664499985337365,0.0 -78.9111022225991,33.664523306698264,0.0 -78.9110669886842,33.66455278757084,0.0 -78.91109437890285,33.66457576596752,0.0 -78.91102306884788,33.66463556400138,0.0 -78.91097230074544,33.66459363365989,0.0 -78.91083131569346,33.66447562197796,0.0 -78.91088080780827,33.66443434116653,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="802010">
+            <name>Parcel_87725</name>
+            <styleUrl>#802015</styleUrl>
+            <Polygon id="802009">
+                <outerBoundaryIs>
+                    <LinearRing id="802013">
+                        <coordinates>-78.91088080780827,33.66443434116653,0.0 -78.91090263041393,33.664415631114544,0.0 -78.91091714475274,33.66442723023981,0.0 -78.9109884626869,33.66436710228589,0.0 -78.91097235897517,33.66435324938423,0.0 -78.91103216857071,33.66430312071103,0.0 -78.91111665499685,33.66423230709176,0.0 -78.91113195372286,33.66424545908129,0.0 -78.91120326736906,33.66418549599127,0.0 -78.9111903836011,33.664174446690105,0.0 -78.91119865002601,33.66416749978766,0.0 -78.91126253537072,33.664113809544986,0.0 -78.9114526784985,33.66427235092892,0.0 -78.91145435449872,33.6642736988087,0.0 -78.91138993401228,33.664327573122065,0.0 -78.9113829829083,33.66433338596668,0.0 -78.91135559268973,33.66431040763303,0.0 -78.91131868256475,33.66434123391614,0.0 -78.91129047874205,33.66431791170241,0.0 -78.91121917766634,33.6643773528252,0.0 -78.91127719929395,33.66442523407392,0.0 -78.91129330705628,33.6644389219461,0.0 -78.911327954805,33.66446768720917,0.0 -78.91133681435923,33.664475204085356,0.0 -78.91128769404348,33.66451628391127,0.0 -78.91126550854338,33.66453483727045,0.0 -78.91125584866336,33.66452642655783,0.0 -78.91121878592524,33.66449555949742,0.0 -78.9112067031097,33.664485376081096,0.0 -78.91114868148077,33.66443749479976,0.0 -78.91107401875358,33.664499985337365,0.0 -78.9111022225991,33.664523306698264,0.0 -78.9110669886842,33.66455278757084,0.0 -78.91109437890285,33.66457576596752,0.0 -78.91102306884788,33.66463556400138,0.0 -78.91097230074544,33.66459363365989,0.0 -78.91083131569346,33.66447562197796,0.0 -78.91088080780827,33.66443434116653,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="802019">
+            <name>Parcel_87726</name>
+            <styleUrl>#802024</styleUrl>
+            <Polygon id="802018">
+                <outerBoundaryIs>
+                    <LinearRing id="802022">
+                        <coordinates>-78.91088080780827,33.66443434116653,0.0 -78.91090263041393,33.664415631114544,0.0 -78.91091714475274,33.66442723023981,0.0 -78.9109884626869,33.66436710228589,0.0 -78.91097235897517,33.66435324938423,0.0 -78.91103216857071,33.66430312071103,0.0 -78.91111665499685,33.66423230709176,0.0 -78.91113195372286,33.66424545908129,0.0 -78.91120326736906,33.66418549599127,0.0 -78.9111903836011,33.664174446690105,0.0 -78.91119865002601,33.66416749978766,0.0 -78.91126253537072,33.664113809544986,0.0 -78.9114526784985,33.66427235092892,0.0 -78.91145435449872,33.6642736988087,0.0 -78.91138993401228,33.664327573122065,0.0 -78.9113829829083,33.66433338596668,0.0 -78.91135559268973,33.66431040763303,0.0 -78.91131868256475,33.66434123391614,0.0 -78.91129047874205,33.66431791170241,0.0 -78.91121917766634,33.6643773528252,0.0 -78.91127719929395,33.66442523407392,0.0 -78.91129330705628,33.6644389219461,0.0 -78.911327954805,33.66446768720917,0.0 -78.91133681435923,33.664475204085356,0.0 -78.91128769404348,33.66451628391127,0.0 -78.91126550854338,33.66453483727045,0.0 -78.91125584866336,33.66452642655783,0.0 -78.91121878592524,33.66449555949742,0.0 -78.9112067031097,33.664485376081096,0.0 -78.91114868148077,33.66443749479976,0.0 -78.91107401875358,33.664499985337365,0.0 -78.9111022225991,33.664523306698264,0.0 -78.9110669886842,33.66455278757084,0.0 -78.91109437890285,33.66457576596752,0.0 -78.91102306884788,33.66463556400138,0.0 -78.91097230074544,33.66459363365989,0.0 -78.91083131569346,33.66447562197796,0.0 -78.91088080780827,33.66443434116653,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="802028">
+            <name>Parcel_87727</name>
+            <styleUrl>#802033</styleUrl>
+            <Polygon id="802027">
+                <outerBoundaryIs>
+                    <LinearRing id="802031">
+                        <coordinates>-78.91088080780827,33.66443434116653,0.0 -78.91090263041393,33.664415631114544,0.0 -78.91091714475274,33.66442723023981,0.0 -78.9109884626869,33.66436710228589,0.0 -78.91097235897517,33.66435324938423,0.0 -78.91103216857071,33.66430312071103,0.0 -78.91111665499685,33.66423230709176,0.0 -78.91113195372286,33.66424545908129,0.0 -78.91120326736906,33.66418549599127,0.0 -78.9111903836011,33.664174446690105,0.0 -78.91119865002601,33.66416749978766,0.0 -78.91126253537072,33.664113809544986,0.0 -78.9114526784985,33.66427235092892,0.0 -78.91145435449872,33.6642736988087,0.0 -78.91138993401228,33.664327573122065,0.0 -78.9113829829083,33.66433338596668,0.0 -78.91135559268973,33.66431040763303,0.0 -78.91131868256475,33.66434123391614,0.0 -78.91129047874205,33.66431791170241,0.0 -78.91121917766634,33.6643773528252,0.0 -78.91127719929395,33.66442523407392,0.0 -78.91129330705628,33.6644389219461,0.0 -78.911327954805,33.66446768720917,0.0 -78.91133681435923,33.664475204085356,0.0 -78.91128769404348,33.66451628391127,0.0 -78.91126550854338,33.66453483727045,0.0 -78.91125584866336,33.66452642655783,0.0 -78.91121878592524,33.66449555949742,0.0 -78.9112067031097,33.664485376081096,0.0 -78.91114868148077,33.66443749479976,0.0 -78.91107401875358,33.664499985337365,0.0 -78.9111022225991,33.664523306698264,0.0 -78.9110669886842,33.66455278757084,0.0 -78.91109437890285,33.66457576596752,0.0 -78.91102306884788,33.66463556400138,0.0 -78.91097230074544,33.66459363365989,0.0 -78.91083131569346,33.66447562197796,0.0 -78.91088080780827,33.66443434116653,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="802037">
+            <name>Parcel_87728</name>
+            <styleUrl>#802042</styleUrl>
+            <Polygon id="802036">
+                <outerBoundaryIs>
+                    <LinearRing id="802040">
+                        <coordinates>-78.95058234377255,33.656883023615364,0.0 -78.95053304100895,33.65684801315675,0.0 -78.95051872168511,33.65686272359418,0.0 -78.95041687497321,33.65679075836632,0.0 -78.9504236109887,33.65678382590351,0.0 -78.9503629894324,33.65674106662538,0.0 -78.95036137373665,33.65673984023836,0.0 -78.95037904036572,33.656722604875895,0.0 -78.95035398141088,33.65670500716139,0.0 -78.95034589648017,33.65669937479577,0.0 -78.95039218264546,33.65665375100459,0.0 -78.95042612446306,33.65667785295946,0.0 -78.9504345333592,33.65666991732047,0.0 -78.95058002262971,33.65677301906688,0.0 -78.95058337392285,33.65677032552095,0.0 -78.95061165496926,33.656790725755634,0.0 -78.95060744850298,33.656794778781425,0.0 -78.95067534611074,33.65684281322436,0.0 -78.95061306204636,33.65690466566215,0.0 -78.95060740390359,33.656900621300956,0.0 -78.95058234377255,33.656883023615364,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="802046">
+            <name>Parcel_87729</name>
+            <styleUrl>#802051</styleUrl>
+            <Polygon id="802045">
+                <outerBoundaryIs>
+                    <LinearRing id="802049">
+                        <coordinates>-78.9445580075537,33.65687294112726,0.0 -78.94455101145539,33.656870790863735,0.0 -78.94457575570084,33.65679800682724,0.0 -78.94458719991643,33.65680060268135,0.0 -78.94461276867914,33.65672765917883,0.0 -78.94465763561156,33.656736801695736,0.0 -78.94471745860511,33.656748989895696,0.0 -78.94461431018034,33.6570429781349,0.0 -78.94454792969651,33.6570234318686,0.0 -78.9445147378809,33.657013657342844,0.0 -78.9445681451422,33.656876057317845,0.0 -78.9445580075537,33.65687294112726,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="802055">
+            <name>Parcel_87730</name>
+            <styleUrl>#802060</styleUrl>
+            <Polygon id="802054">
+                <outerBoundaryIs>
+                    <LinearRing id="802058">
+                        <coordinates>-78.94495655031734,33.655715167348276,0.0 -78.94493855147734,33.65571177613239,0.0 -78.94499195208618,33.65557434808163,0.0 -78.94500255719755,33.655577618130145,0.0 -78.94502592015466,33.655493813598106,0.0 -78.94507619535283,33.65550513211965,0.0 -78.94512646737276,33.65551644876372,0.0 -78.94505495243102,33.65572193412735,0.0 -78.9450453116618,33.655749634916084,0.0 -78.94503298701862,33.65581867326465,0.0 -78.94494536622241,33.65580535996469,0.0 -78.94495027968794,33.65578877551919,0.0 -78.94495519319445,33.65577218927029,0.0 -78.94493719134692,33.655768969374165,0.0 -78.94495655031734,33.655715167348276,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="802064">
+            <name>Parcel_87731</name>
+            <styleUrl>#802069</styleUrl>
+            <Polygon id="802063">
+                <outerBoundaryIs>
+                    <LinearRing id="802067">
+                        <coordinates>-78.94417050886294,33.656490061194155,0.0 -78.94425871760815,33.656202353927526,0.0 -78.94435605805013,33.65622167221295,0.0 -78.94433276589267,33.65630255549472,0.0 -78.94435072093516,33.65630783744958,0.0 -78.94431197941891,33.65641629777214,0.0 -78.94429636935534,33.656416038077296,0.0 -78.94427995167459,33.65648432007648,0.0 -78.944249616462,33.656481239440744,0.0 -78.94424578801906,33.65650402745829,0.0 -78.94417050886294,33.656490061194155,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="802073">
+            <name>Parcel_87732</name>
+            <styleUrl>#802078</styleUrl>
+            <Polygon id="802072">
+                <outerBoundaryIs>
+                    <LinearRing id="802076">
+                        <coordinates>-78.94400421158068,33.65684725927957,0.0 -78.94397972659374,33.65694375878813,0.0 -78.94380386590359,33.65690852842697,0.0 -78.94379767379355,33.65692698293288,0.0 -78.94370445860072,33.656906874216936,0.0 -78.94371569046176,33.656884037144046,0.0 -78.94361661430457,33.65686846863586,0.0 -78.94364077266196,33.656785711222035,0.0 -78.94384754073461,33.656820727351004,0.0 -78.94400421158068,33.65684725927957,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="802082">
+            <name>Parcel_87733</name>
+            <styleUrl>#802087</styleUrl>
+            <Polygon id="802081">
+                <outerBoundaryIs>
+                    <LinearRing id="802085">
+                        <coordinates>-78.94417050886294,33.656490061194155,0.0 -78.94425871760815,33.656202353927526,0.0 -78.94435605805013,33.65622167221295,0.0 -78.94433276589267,33.65630255549472,0.0 -78.94435072093516,33.65630783744958,0.0 -78.94431197941891,33.65641629777214,0.0 -78.94429636935534,33.656416038077296,0.0 -78.94427995167459,33.65648432007648,0.0 -78.944249616462,33.656481239440744,0.0 -78.94424578801906,33.65650402745829,0.0 -78.94417050886294,33.656490061194155,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="802091">
+            <name>Parcel_87734</name>
+            <styleUrl>#802096</styleUrl>
+            <Polygon id="802090">
+                <outerBoundaryIs>
+                    <LinearRing id="802094">
+                        <coordinates>-78.94403143227503,33.6553233146062,0.0 -78.94403438003705,33.655303090602494,0.0 -78.94402862947544,33.65530299311617,0.0 -78.94403139772133,33.655296071639974,0.0 -78.94403151588747,33.65529577415987,0.0 -78.94404173568478,33.65527022159304,0.0 -78.94401492509269,33.65525723212646,0.0 -78.94406517829945,33.65504483910648,0.0 -78.94419525644426,33.65506985506909,0.0 -78.94410671037097,33.6553372818592,0.0 -78.94403143227503,33.6553233146062,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="802100">
+            <name>Parcel_87735</name>
+            <styleUrl>#802105</styleUrl>
+            <Polygon id="802099">
+                <outerBoundaryIs>
+                    <LinearRing id="802103">
+                        <coordinates>-78.68852392146928,33.816317234059454,0.0 -78.68867136207585,33.81625383398864,0.0 -78.68874199574606,33.81638350626871,0.0 -78.68868100588766,33.81641409967183,0.0 -78.68860428052952,33.81645258640127,0.0 -78.68860416885987,33.816452398511046,0.0 -78.68854283268799,33.81634885926704,0.0 -78.68853890745798,33.81634174071127,0.0 -78.68852392146928,33.816317234059454,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="802109">
+            <name>Parcel_87736</name>
+            <styleUrl>#802114</styleUrl>
+            <Polygon id="802108">
+                <outerBoundaryIs>
+                    <LinearRing id="802112">
+                        <coordinates>-78.83067579195773,33.74160215026548,0.0 -78.8306759131571,33.74160205317629,0.0 -78.83081934048921,33.74171929527792,0.0 -78.83081940286827,33.74171934778326,0.0 -78.83074208477134,33.74178431422999,0.0 -78.83074201387227,33.74178425706539,0.0 -78.83059778351745,33.7416664902855,0.0 -78.83067579195773,33.74160215026548,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="802118">
+            <name>Parcel_87737</name>
+            <styleUrl>#802123</styleUrl>
+            <Polygon id="802117">
+                <outerBoundaryIs>
+                    <LinearRing id="802121">
+                        <coordinates>-78.83046170183464,33.741712728648274,0.0 -78.83044318298474,33.741697602764006,0.0 -78.83042623202664,33.74168375538803,0.0 -78.83042629590932,33.74168370509727,0.0 -78.83052121390779,33.741603461790746,0.0 -78.83059778351745,33.7416664902855,0.0 -78.83050442148063,33.74174784238351,0.0 -78.83046170183464,33.741712728648274,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="802127">
+            <name>Parcel_87738</name>
+            <styleUrl>#802132</styleUrl>
+            <Polygon id="802126">
+                <outerBoundaryIs>
+                    <LinearRing id="802130">
+                        <coordinates>-78.83059843624318,33.741538912306645,0.0 -78.83059852227518,33.741538839855416,0.0 -78.8306759131571,33.74160205317629,0.0 -78.83067579195773,33.74160215026548,0.0 -78.83059778351745,33.7416664902855,0.0 -78.83052121390779,33.741603461790746,0.0 -78.83054642291702,33.74158242753882,0.0 -78.83054643062975,33.74158242136039,0.0 -78.83055529952425,33.7415750005091,0.0 -78.83059843624318,33.741538912306645,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="802136">
+            <name>Parcel_87739</name>
+            <styleUrl>#802141</styleUrl>
+            <Polygon id="802135">
+                <outerBoundaryIs>
+                    <LinearRing id="802139">
+                        <coordinates>-78.89415809243785,33.735561870412305,0.0 -78.89433111973278,33.73548302995651,0.0 -78.8944446716316,33.735650427262435,0.0 -78.89454235655015,33.73579384226713,0.0 -78.89459317680567,33.7358687614004,0.0 -78.89464400128277,33.735943511016835,0.0 -78.89459073910916,33.7359687201054,0.0 -78.894566604154,33.73598016439234,0.0 -78.89454833161615,33.735953564409456,0.0 -78.89445348962032,33.73599713899403,0.0 -78.89415809243785,33.735561870412305,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="802145">
+            <name>Parcel_87740</name>
+            <styleUrl>#802150</styleUrl>
+            <Polygon id="802144">
+                <outerBoundaryIs>
+                    <LinearRing id="802148">
+                        <coordinates>-78.89433111973278,33.73548302995651,0.0 -78.89460562477376,33.73535832392835,0.0 -78.89470794066983,33.735311785498546,0.0 -78.89475411443583,33.73530741595774,0.0 -78.89475741188483,33.73530712844565,0.0 -78.89479627036714,33.73533287651468,0.0 -78.89487806603005,33.73545316827634,0.0 -78.89487473509496,33.73545482888062,0.0 -78.89486225441956,33.73546063240887,0.0 -78.89460022591447,33.73557970860497,0.0 -78.8944446716316,33.735650427262435,0.0 -78.89433111973278,33.73548302995651,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="802154">
+            <name>Parcel_87741</name>
+            <styleUrl>#802159</styleUrl>
+            <Polygon id="802153">
+                <outerBoundaryIs>
+                    <LinearRing id="802157">
+                        <coordinates>-78.89487473509496,33.73545482888062,0.0 -78.89487806603005,33.73545316827634,0.0 -78.89489761971244,33.73548181578235,0.0 -78.8949352520543,33.73553695799578,0.0 -78.8949757472466,33.73559675514355,0.0 -78.89497565559135,33.73559679507295,0.0 -78.8945955934994,33.73576966369149,0.0 -78.89454235655015,33.73579384226713,0.0 -78.8944446716316,33.735650427262435,0.0 -78.89460022591447,33.73557970860497,0.0 -78.89486225441956,33.73546063240887,0.0 -78.89487473509496,33.73545482888062,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="802163">
+            <name>Parcel_87742</name>
+            <styleUrl>#802168</styleUrl>
+            <Polygon id="802162">
+                <outerBoundaryIs>
+                    <LinearRing id="802166">
+                        <coordinates>-78.89398424367874,33.735640694838665,0.0 -78.89415809243785,33.735561870412305,0.0 -78.89445348962032,33.73599713899403,0.0 -78.89427964023251,33.73607596473086,0.0 -78.89398424367874,33.735640694838665,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="802172">
+            <name>Parcel_87743</name>
+            <styleUrl>#802177</styleUrl>
+            <Polygon id="802171">
+                <outerBoundaryIs>
+                    <LinearRing id="802175">
+                        <coordinates>-78.89335399142934,33.733758146900314,0.0 -78.89392712272536,33.73349746652751,0.0 -78.89397446881858,33.733557317579425,0.0 -78.89402687094224,33.73362356199453,0.0 -78.89403125614484,33.7336293071827,0.0 -78.89403128642628,33.73362934918768,0.0 -78.89404440746189,33.733646541771094,0.0 -78.89403940583824,33.73364920572756,0.0 -78.89345546826107,33.73391451533707,0.0 -78.89342770768751,33.73387228974154,0.0 -78.89335399142934,33.733758146900314,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="802181">
+            <name>Parcel_87744</name>
+            <styleUrl>#802186</styleUrl>
+            <Polygon id="802180">
+                <outerBoundaryIs>
+                    <LinearRing id="802184">
+                        <coordinates>-78.89421750406984,33.73423917594735,0.0 -78.89427757808981,33.73423813692636,0.0 -78.89429759830932,33.7342604725694,0.0 -78.89429920727228,33.734262046795415,0.0 -78.89431361306032,33.73427844405892,0.0 -78.89432974238913,33.734359128698955,0.0 -78.89434882591036,33.73445271451588,0.0 -78.89435104836072,33.73446361535584,0.0 -78.89435309930222,33.734470305711326,0.0 -78.89436628826117,33.73451335902085,0.0 -78.89436213194917,33.734515178732195,0.0 -78.89427478288947,33.73455509978774,0.0 -78.89384555849279,33.73475019353771,0.0 -78.8936734871688,33.73448643926086,0.0 -78.8941784055144,33.73425706681741,0.0 -78.89421750406984,33.73423917594735,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="802190">
+            <name>Parcel_87745</name>
+            <styleUrl>#802195</styleUrl>
+            <Polygon id="802189">
+                <outerBoundaryIs>
+                    <LinearRing id="802193">
+                        <coordinates>-78.8945230808928,33.73149112790206,0.0 -78.89469612891473,33.731411088691836,0.0 -78.89474214206915,33.73148060005777,0.0 -78.89498652681591,33.73184850283029,0.0 -78.8948630852,33.73190588399481,0.0 -78.8948626200731,33.73190609975963,0.0 -78.89481430031263,33.73192856094432,0.0 -78.89481428886076,33.73192854361243,0.0 -78.89473416402092,33.73180778224216,0.0 -78.89473394947534,33.73180746110597,0.0 -78.8945230808928,33.73149112790206,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="802199">
+            <name>Parcel_87746</name>
+            <styleUrl>#802204</styleUrl>
+            <Polygon id="802198">
+                <outerBoundaryIs>
+                    <LinearRing id="802202">
+                        <coordinates>-78.89469612891473,33.731411088691836,0.0 -78.8947443826204,33.73138871391972,0.0 -78.89486835555249,33.73133103165485,0.0 -78.89515953457196,33.7317682223698,0.0 -78.89515957828748,33.731768288955664,0.0 -78.89505432864401,33.73181707773677,0.0 -78.89498652681591,33.73184850283029,0.0 -78.89474214206915,33.73148060005777,0.0 -78.89469612891473,33.731411088691836,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="802208">
+            <name>Parcel_87747</name>
+            <styleUrl>#802213</styleUrl>
+            <Polygon id="802207">
+                <outerBoundaryIs>
+                    <LinearRing id="802211">
+                        <coordinates>-78.89435085357164,33.73157118625915,0.0 -78.8945230808928,33.73149112790206,0.0 -78.89473394947534,33.73180746110597,0.0 -78.89473416402092,33.73180778224216,0.0 -78.89481428886076,33.73192854361243,0.0 -78.89481430031263,33.73192856094432,0.0 -78.89473026920912,33.73196750875056,0.0 -78.89472997443599,33.73196764443591,0.0 -78.89469314033818,33.7319845773561,0.0 -78.89464125439532,33.732008431700535,0.0 -78.89435085357164,33.73157118625915,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="802217">
+            <name>Parcel_87748</name>
+            <styleUrl>#802222</styleUrl>
+            <Polygon id="802216">
+                <outerBoundaryIs>
+                    <LinearRing id="802220">
+                        <coordinates>-78.89440874732686,33.72965699099556,0.0 -78.89447478818401,33.729626227140294,0.0 -78.89447484024424,33.729626305593804,0.0 -78.89477714782089,33.7300787972019,0.0 -78.89479619429339,33.73010729904373,0.0 -78.89477622235128,33.7301167523765,0.0 -78.89462314579099,33.73018751333566,0.0 -78.89430256146092,33.729706455872126,0.0 -78.89440874732686,33.72965699099556,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="802226">
+            <name>Parcel_87749</name>
+            <styleUrl>#802231</styleUrl>
+            <Polygon id="802225">
+                <outerBoundaryIs>
+                    <LinearRing id="802229">
+                        <coordinates>-78.89447478818401,33.729626227140294,0.0 -78.89464701144512,33.72954617128717,0.0 -78.89464711039058,33.72954631908653,0.0 -78.89478510881744,33.7297523010069,0.0 -78.894968419317,33.7300272418669,0.0 -78.89479619429339,33.73010729904373,0.0 -78.89477714782089,33.7300787972019,0.0 -78.89447484024424,33.729626305593804,0.0 -78.89447478818401,33.729626227140294,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="802235">
+            <name>Parcel_87750</name>
+            <styleUrl>#802240</styleUrl>
+            <Polygon id="802234">
+                <outerBoundaryIs>
+                    <LinearRing id="802238">
+                        <coordinates>-78.8947917684372,33.729479219203846,0.0 -78.89482005446342,33.72946612825082,0.0 -78.89514064078418,33.729947184393936,0.0 -78.894968419317,33.7300272418669,0.0 -78.89478510881744,33.7297523010069,0.0 -78.89464711039058,33.72954631908653,0.0 -78.89464701144512,33.72954617128717,0.0 -78.8947577409221,33.72949495793116,0.0 -78.8947580116845,33.729494832660386,0.0 -78.8947917684372,33.729479219203846,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="802244">
+            <name>Parcel_87751</name>
+            <styleUrl>#802249</styleUrl>
+            <Polygon id="802243">
+                <outerBoundaryIs>
+                    <LinearRing id="802247">
+                        <coordinates>-78.89331583686491,33.73205183431544,0.0 -78.89348806606039,33.73197177920963,0.0 -78.89377917046258,33.73240886911302,0.0 -78.89377928608084,33.732409041549346,0.0 -78.89365464665866,33.732466691556326,0.0 -78.89365410075176,33.73246694382252,0.0 -78.89360623404204,33.73248908305028,0.0 -78.89331583686491,33.73205183431544,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="802253">
+            <name>Parcel_87752</name>
+            <styleUrl>#802258</styleUrl>
+            <Polygon id="802252">
+                <outerBoundaryIs>
+                    <LinearRing id="802256">
+                        <coordinates>-78.89655027611269,33.729450558869985,0.0 -78.89670252757529,33.72937978153298,0.0 -78.8967050318339,33.72937827909398,0.0 -78.89670835417549,33.72937696013357,0.0 -78.8967116723001,33.7293758142745,0.0 -78.89671498629565,33.72937483791044,0.0 -78.89671911929939,33.72937405135417,0.0 -78.89672242073213,33.72937359068795,0.0 -78.89672653908103,33.72937331708806,0.0 -78.89672983210203,33.72937320172297,0.0 -78.89673311785624,33.729373428972686,0.0 -78.89673722054866,33.7293738423871,0.0 -78.89674049573327,33.72937441490124,0.0 -78.896743767868,33.72937515692883,0.0 -78.8967478538252,33.72937625733919,0.0 -78.8967511144546,33.72937751598453,0.0 -78.89675436985424,33.72937894500811,0.0 -78.89675679882511,33.72938053314997,0.0 -78.89676003948252,33.72938247873633,0.0 -78.89676162641244,33.72938491120797,0.0 -78.89698460772922,33.729719802088866,0.0 -78.89678327090688,33.72981328393878,0.0 -78.89655027611269,33.729450558869985,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="802262">
+            <name>Parcel_87753</name>
+            <styleUrl>#802267</styleUrl>
+            <Polygon id="802261">
+                <outerBoundaryIs>
+                    <LinearRing id="802265">
+                        <coordinates>-78.89614975933814,33.728848571532495,0.0 -78.89620029933916,33.72882519155777,0.0 -78.89652089296284,33.72930607374564,0.0 -78.89634867299694,33.729386132229706,0.0 -78.8960273504764,33.728905376089976,0.0 -78.89602725672667,33.728905236497695,0.0 -78.89614975933814,33.728848571532495,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="802271">
+            <name>Parcel_87754</name>
+            <styleUrl>#802276</styleUrl>
+            <Polygon id="802270">
+                <outerBoundaryIs>
+                    <LinearRing id="802274">
+                        <coordinates>-78.89589537044456,33.7289666753247,0.0 -78.89602725672667,33.728905236497695,0.0 -78.8960273504764,33.728905376089976,0.0 -78.89634867299694,33.729386132229706,0.0 -78.89617562735994,33.72946634960563,0.0 -78.89585503290589,33.728985466500035,0.0 -78.89589537044456,33.7289666753247,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="802280">
+            <name>Parcel_87755</name>
+            <styleUrl>#802285</styleUrl>
+            <Polygon id="802279">
+                <outerBoundaryIs>
+                    <LinearRing id="802283">
+                        <coordinates>-78.89343979653677,33.730106877322775,0.0 -78.89361202065902,33.73002682199781,0.0 -78.8936120873192,33.73002692144502,0.0 -78.89393341927432,33.730508067406475,0.0 -78.89376119449024,33.73058812317199,0.0 -78.89343981426431,33.73010690287917,0.0 -78.89343979653677,33.730106877322775,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="802289">
+            <name>Parcel_87756</name>
+            <styleUrl>#802294</styleUrl>
+            <Polygon id="802288">
+                <outerBoundaryIs>
+                    <LinearRing id="802292">
+                        <coordinates>-78.69030849564707,33.81680055082439,0.0 -78.69047742925828,33.816734112223784,0.0 -78.6905634827777,33.81687214727383,0.0 -78.69039047150959,33.81693730669498,0.0 -78.69030849564707,33.81680055082439,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="802298">
+            <name>Parcel_87757</name>
+            <styleUrl>#802303</styleUrl>
+            <Polygon id="802297">
+                <outerBoundaryIs>
+                    <LinearRing id="802301">
+                        <coordinates>-78.68874603877744,33.81672431152181,0.0 -78.68881109407097,33.81669339531514,0.0 -78.68888620672176,33.81680547075426,0.0 -78.68888631278176,33.81680562606865,0.0 -78.68878174292558,33.81686690622313,0.0 -78.68878169350118,33.81686693596725,0.0 -78.68877744193271,33.81686945335477,0.0 -78.68874743799972,33.816887229273654,0.0 -78.6886600814199,33.81676703744723,0.0 -78.68874603877744,33.81672431152181,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="802307">
+            <name>Parcel_87758</name>
+            <styleUrl>#802312</styleUrl>
+            <Polygon id="802306">
+                <outerBoundaryIs>
+                    <LinearRing id="802310">
+                        <coordinates>-78.68889938522045,33.816796700718946,0.0 -78.68891398997484,33.816786726123546,0.0 -78.68891414041416,33.816786878658554,0.0 -78.68915765424575,33.81703526671586,0.0 -78.68914591577158,33.81704312471141,0.0 -78.68901998256088,33.8171333869505,0.0 -78.68890166485654,33.817000935060356,0.0 -78.68878174292558,33.81686690622313,0.0 -78.68888631278176,33.81680562606865,0.0 -78.68889938522045,33.816796700718946,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="802316">
+            <name>Parcel_87759</name>
+            <styleUrl>#802321</styleUrl>
+            <Polygon id="802315">
+                <outerBoundaryIs>
+                    <LinearRing id="802319">
+                        <coordinates>-78.6886601616869,33.81608798402063,0.0 -78.6886922148765,33.8160751819497,0.0 -78.6886922334549,33.816075174178835,0.0 -78.68881176145658,33.81602743048268,0.0 -78.68886157445087,33.81600752141292,0.0 -78.68892512745937,33.81611507866193,0.0 -78.68893814275452,33.816137197046615,0.0 -78.68873388713156,33.81622510385483,0.0 -78.688730554762,33.81622658851239,0.0 -78.68872980544099,33.81622382352279,0.0 -78.6886602673761,33.81608819344637,0.0 -78.6886601616869,33.81608798402063,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="802325">
+            <name>Parcel_87760</name>
+            <styleUrl>#802330</styleUrl>
+            <Polygon id="802324">
+                <outerBoundaryIs>
+                    <LinearRing id="802328">
+                        <coordinates>-78.68960444845827,33.816063512602625,0.0 -78.68959342785428,33.816044578480856,0.0 -78.68951223679181,33.81590938263674,0.0 -78.68943603568607,33.815772389343635,0.0 -78.68935418422775,33.81563116763831,0.0 -78.68927475950404,33.81549153894276,0.0 -78.68916899293743,33.8155361296177,0.0 -78.68905669182314,33.815578707695884,0.0 -78.6889568229995,33.81561825354766,0.0 -78.6890337782767,33.81575783815568,0.0 -78.68911230161791,33.81590037164594,0.0 -78.6891909989626,33.816036379888,0.0 -78.68927987216297,33.81619216602934,0.0 -78.68924703524611,33.816204577502,0.0 -78.68924607131383,33.81620494194321,0.0 -78.68914150724821,33.81602607017075,0.0 -78.68885818143715,33.81554473088133,0.0 -78.6890671025376,33.815466699129395,0.0 -78.68915491441881,33.81543580618859,0.0 -78.68932278838419,33.815376749135886,0.0 -78.68932312547611,33.815376630054445,0.0 -78.68937367842203,33.815456784397334,0.0 -78.68942255462564,33.815537333149,0.0 -78.6894265131366,33.81554385609823,0.0 -78.68946819974549,33.81561680054545,0.0 -78.68950740817687,33.81569004417684,0.0 -78.68963414793014,33.81590770550158,0.0 -78.68967249150137,33.81597702019766,0.0 -78.68972289652454,33.816068127807014,0.0 -78.68972814614197,33.81607728242629,0.0 -78.68973784353285,33.81609418135717,0.0 -78.68974347267869,33.816105747702274,0.0 -78.6897472100233,33.81611342914751,0.0 -78.68974740833883,33.816113771086016,0.0 -78.68978812262728,33.816184468501135,0.0 -78.6898002146001,33.81620988158219,0.0 -78.68971008018696,33.81624746302137,0.0 -78.68969570861786,33.816222436724814,0.0 -78.68960444845827,33.816063512602625,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="802334">
+            <name>Parcel_87761</name>
+            <styleUrl>#802339</styleUrl>
+            <Polygon id="802333">
+                <outerBoundaryIs>
+                    <LinearRing id="802337">
+                        <coordinates>-78.68834869758705,33.81573481445222,0.0 -78.68838009737163,33.81572312501461,0.0 -78.68851216926288,33.81567394449813,0.0 -78.68851226532213,33.81567390840916,0.0 -78.6886922148765,33.8160751819497,0.0 -78.6886601616869,33.81608798402063,0.0 -78.6886064616378,33.8161089433838,0.0 -78.68860638629243,33.81610897264392,0.0 -78.68860611001809,33.81610908023143,0.0 -78.68859656686143,33.81611280486031,0.0 -78.68857528453596,33.81612110966856,0.0 -78.68852861210608,33.81613898470155,0.0 -78.68852856930474,33.81613888829383,0.0 -78.68834869758705,33.81573481445222,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="802343">
+            <name>Parcel_87762</name>
+            <styleUrl>#802348</styleUrl>
+            <Polygon id="802342">
+                <outerBoundaryIs>
+                    <LinearRing id="802346">
+                        <coordinates>-78.68851226532213,33.81567390840916,0.0 -78.6886364698947,33.81562817249629,0.0 -78.68886157445087,33.81600752141292,0.0 -78.68881176145658,33.81602743048268,0.0 -78.6886922334549,33.816075174178835,0.0 -78.6886922148765,33.8160751819497,0.0 -78.68851226532213,33.81567390840916,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="802352">
+            <name>Parcel_87763_1</name>
+            <styleUrl>#802357</styleUrl>
+            <Polygon id="802351">
+                <outerBoundaryIs>
+                    <LinearRing id="802355">
+                        <coordinates>-78.9750955442697,33.60733946450489,0.0 -78.97483682152455,33.60716357150821,0.0 -78.97484613884149,33.607151524554965,0.0 -78.97485623293568,33.60714138172335,0.0 -78.97486917390398,33.60715001271524,0.0 -78.97497832381535,33.60722413965766,0.0 -78.97506754171424,33.6071323042101,0.0 -78.9751609481291,33.607036928682675,0.0 -78.97525435837045,33.60694138087743,0.0 -78.97534694436995,33.60684599266447,0.0 -78.97544035419953,33.606750444715956,0.0 -78.97553375979074,33.606655068901375,0.0 -78.9755640829837,33.60662292089676,0.0 -78.97560633126176,33.606572582165455,0.0 -78.97561174310928,33.60655188008425,0.0 -78.9756883301574,33.60647323918953,0.0 -78.9756863162762,33.60645396222328,0.0 -78.9755909316448,33.60638830895292,0.0 -78.97560159839726,33.60638882745159,0.0 -78.97565251553146,33.60642419858448,0.0 -78.97569627308583,33.6063795542067,0.0 -78.97533247496426,33.6061309781269,0.0 -78.97532285158583,33.606121026101974,0.0 -78.97532875982628,33.606114250125266,0.0 -78.9757564320102,33.60640614299467,0.0 -78.9750955442697,33.60733946450489,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="802361">
+            <name>Parcel_87763_2</name>
+            <styleUrl>#802366</styleUrl>
+            <Polygon id="802360">
+                <outerBoundaryIs>
+                    <LinearRing id="802364">
+                        <coordinates>-78.97451747277015,33.60694596157742,0.0 -78.97453768331016,33.60692481497255,0.0 -78.97467513821842,33.60701779172817,0.0 -78.97478671582132,33.60709350640318,0.0 -78.97479964471738,33.607102652216795,0.0 -78.97478870432299,33.6071138129935,0.0 -78.97477780706895,33.6071230857982,0.0 -78.97451747277015,33.60694596157742,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="802370">
+            <name>Parcel_87764</name>
+            <styleUrl>#802375</styleUrl>
+            <Polygon id="802369">
+                <outerBoundaryIs>
+                    <LinearRing id="802373">
+                        <coordinates>-78.89400557488392,33.73173145599602,0.0 -78.89411207448043,33.73168189567164,0.0 -78.89417862705416,33.731651242590495,0.0 -78.89446902835402,33.732088488448284,0.0 -78.89443426105943,33.732104682611855,0.0 -78.89429679673647,33.73216871623481,0.0 -78.89429669252532,33.73216856293398,0.0 -78.89400557488392,33.73173145599602,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="802379">
+            <name>Parcel_87765</name>
+            <styleUrl>#802384</styleUrl>
+            <Polygon id="802378">
+                <outerBoundaryIs>
+                    <LinearRing id="802382">
+                        <coordinates>-78.89419497492172,33.73101475416357,0.0 -78.89436802128006,33.730934712682405,0.0 -78.89460432404304,33.73129663771233,0.0 -78.89443127079882,33.731376852583395,0.0 -78.89419497492172,33.73101475416357,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="802388">
+            <name>Parcel_87766</name>
+            <styleUrl>#802393</styleUrl>
+            <Polygon id="802387">
+                <outerBoundaryIs>
+                    <LinearRing id="802391">
+                        <coordinates>-78.89314147140873,33.73343287843066,0.0 -78.89356570089527,33.73324010576895,0.0 -78.89360370031058,33.73323353650952,0.0 -78.89363877203041,33.733245818502574,0.0 -78.89377823358973,33.73336245540635,0.0 -78.89325168633123,33.733601937433896,0.0 -78.89314147140873,33.73343287843066,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="802397">
+            <name>Parcel_87767</name>
+            <styleUrl>#802402</styleUrl>
+            <Polygon id="802396">
+                <outerBoundaryIs>
+                    <LinearRing id="802400">
+                        <coordinates>-78.8934694778252,33.73135136368583,0.0 -78.89364502468312,33.731269990324634,0.0 -78.89388299073664,33.73163108642447,0.0 -78.89370660423783,33.73171296173867,0.0 -78.8934694778252,33.73135136368583,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="802406">
+            <name>Parcel_87768</name>
+            <styleUrl>#802411</styleUrl>
+            <Polygon id="802405">
+                <outerBoundaryIs>
+                    <LinearRing id="802409">
+                        <coordinates>-78.89323396326793,33.7309911662391,0.0 -78.89340785786125,33.73091010871238,0.0 -78.89364502468312,33.731269990324634,0.0 -78.8934694778252,33.73135136368583,0.0 -78.89323396326793,33.7309911662391,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="802415">
+            <name>Parcel_87769</name>
+            <styleUrl>#802420</styleUrl>
+            <Polygon id="802414">
+                <outerBoundaryIs>
+                    <LinearRing id="802418">
+                        <coordinates>-78.89436802128006,33.730934712682405,0.0 -78.89454024727189,33.73085465609533,0.0 -78.8947495892617,33.73117523044021,0.0 -78.89477654943664,33.73121658168468,0.0 -78.89474826168541,33.73122967530993,0.0 -78.89460432404304,33.73129663771233,0.0 -78.89436802128006,33.730934712682405,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="802424">
+            <name>Parcel_87770</name>
+            <styleUrl>#802429</styleUrl>
+            <Polygon id="802423">
+                <outerBoundaryIs>
+                    <LinearRing id="802427">
+                        <coordinates>-78.89454024727189,33.73085465609533,0.0 -78.89471247496321,33.73077442793235,0.0 -78.8947576802765,33.7308434105445,0.0 -78.8949487776523,33.731136352296375,0.0 -78.89477654943664,33.73121658168468,0.0 -78.8947495892617,33.73117523044021,0.0 -78.89454024727189,33.73085465609533,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="802433">
+            <name>Parcel_87771</name>
+            <styleUrl>#802438</styleUrl>
+            <Polygon id="802432">
+                <outerBoundaryIs>
+                    <LinearRing id="802436">
+                        <coordinates>-78.89414554519169,33.73380340352826,0.0 -78.89414587707832,33.733803251339154,0.0 -78.89424519932413,33.73401092733461,0.0 -78.89424918563806,33.734019263318885,0.0 -78.89424919083554,33.73401927152487,0.0 -78.89424874756307,33.73402562808867,0.0 -78.89424665716852,33.73405565426321,0.0 -78.89422982153066,33.73407151781187,0.0 -78.89421720702663,33.73408281453488,0.0 -78.89415481818708,33.734111133969535,0.0 -78.89371394894447,33.73431152721701,0.0 -78.8935577677606,33.73407089588734,0.0 -78.89410345091771,33.73382263145567,0.0 -78.89414554519169,33.73380340352826,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="802442">
+            <name>Parcel_87772</name>
+            <styleUrl>#802447</styleUrl>
+            <Polygon id="802441">
+                <outerBoundaryIs>
+                    <LinearRing id="802445">
+                        <coordinates>-78.89325168633123,33.733601937433896,0.0 -78.89377823358973,33.73336245540635,0.0 -78.89379293530578,33.733374721464884,0.0 -78.89385643531037,33.733427706076334,0.0 -78.8938799658069,33.73344765279677,0.0 -78.8939031789717,33.73346733254505,0.0 -78.89392712272536,33.73349746652751,0.0 -78.89335399142934,33.733758146900314,0.0 -78.89325168633123,33.733601937433896,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="802451">
+            <name>Parcel_87773</name>
+            <styleUrl>#802456</styleUrl>
+            <Polygon id="802450">
+                <outerBoundaryIs>
+                    <LinearRing id="802454">
+                        <coordinates>-78.89445792695133,33.733918198090656,0.0 -78.89445222456014,33.733896478727736,0.0 -78.89444478593462,33.733875128464796,0.0 -78.89443564431073,33.733854245277186,0.0 -78.89442484056578,33.73383392366253,0.0 -78.89466336323723,33.73378946958078,0.0 -78.8946973640643,33.73392231290957,0.0 -78.89453495227681,33.733954484023535,0.0 -78.8945242861626,33.73395582943557,0.0 -78.89451349981663,33.733955686397636,0.0 -78.89450289005096,33.733954057256675,0.0 -78.89449274724903,33.73395098664189,0.0 -78.89448335107112,33.73394656048912,0.0 -78.89447495768113,33.733940898608296,0.0 -78.89446779862364,33.733934156467996,0.0 -78.89446206906408,33.733926520485355,0.0 -78.89445792695133,33.733918198090656,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="802460">
+            <name>Parcel_87774</name>
+            <styleUrl>#802465</styleUrl>
+            <Polygon id="802459">
+                <outerBoundaryIs>
+                    <LinearRing id="802463">
+                        <coordinates>-78.93184244676888,33.748421487750406,0.0 -78.93184573636519,33.748421542749675,0.0 -78.93184819945829,33.748421755297926,0.0 -78.93185148492888,33.74842198249749,0.0 -78.93185394802201,33.748422195045634,0.0 -78.9318572252844,33.74842276484282,0.0 -78.93186049837793,33.74842350864345,0.0 -78.93186376633136,33.74842442192173,0.0 -78.93186703754421,33.74842533435242,0.0 -78.93186866476043,33.748426050635466,0.0 -78.93187111139414,33.74842695018193,0.0 -78.93187274083373,33.74842766379628,0.0 -78.93192726853266,33.748452458644444,0.0 -78.93192889276835,33.748453344440456,0.0 -78.93193133633557,33.74845441710578,0.0 -78.93193295536653,33.74845547508416,0.0 -78.9319353978546,33.74845654773133,0.0 -78.93193701496179,33.74845777614306,0.0 -78.93193862984572,33.74845900722336,0.0 -78.931940246953,33.74846023563502,0.0 -78.93194186291628,33.74846146673334,0.0 -78.93194347373961,33.74846286730936,0.0 -78.93194508669991,33.74846426882295,0.0 -78.93194669339779,33.74846584159935,0.0 -78.93194830633658,33.74846724401448,0.0 -78.93194909169269,33.74846880396134,0.0 -78.93195069949161,33.74847037585414,0.0 -78.9319523061681,33.748471949532025,0.0 -78.93195308739882,33.748473681679286,0.0 -78.931953869752,33.74847541204146,0.0 -78.93195547232473,33.74847715701818,0.0 -78.9319562546348,33.74847888918344,0.0 -78.93195703588724,33.748480620429085,0.0 -78.93195781608206,33.748482350755154,0.0 -78.93195859320906,33.748484254201216,0.0 -78.93195937769939,33.748485985501,0.0 -78.9319601526895,33.74848788800945,0.0 -78.93196010741686,33.748489777706475,0.0 -78.93196087005214,33.748492195914665,0.0 -78.93196164112994,33.74849444199457,0.0 -78.9319624059238,33.74849686023885,0.0 -78.93196317378555,33.74849910536305,0.0 -78.9319639426834,33.748501352308374,0.0 -78.93196470851343,33.748503772373844,0.0 -78.93196547743295,33.74850601841761,0.0 -78.93196624525169,33.748508265344924,0.0 -78.93196701522893,33.74851051230835,0.0 -78.93196860654855,33.74851277210111,0.0 -78.93196937441061,33.748515017225245,0.0 -78.93197096786731,33.74851727795565,0.0 -78.93197173873247,33.748519352664445,0.0 -78.93197333111,33.74852161337673,0.0 -78.93197410413381,33.74852368812161,0.0 -78.93197569543224,33.74852594881584,0.0 -78.93197646845616,33.748528023560695,0.0 -78.93197806280097,33.748530112036406,0.0 -78.93197965932595,33.74853219964664,0.0 -78.93198125475017,33.74853428814037,0.0 -78.93198285535765,33.7485362053532,0.0 -78.93198444970271,33.74853829382885,0.0 -78.93198604815176,33.74854021100559,0.0 -78.93198764467712,33.7485422986157,0.0 -78.93198924312634,33.74854421579239,0.0 -78.9319908437341,33.74854613300516,0.0 -78.9319924443636,33.74854804931634,0.0 -78.93199404691683,33.74854979519413,0.0 -78.93199646888911,33.74855172433443,0.0 -78.93199807144252,33.74855347021213,0.0 -78.93200049749723,33.74855522895506,0.0 -78.9320021022525,33.7485569730657,0.0 -78.93200370480614,33.74855871894332,0.0 -78.9320061308611,33.748560477686155,0.0 -78.93200773972039,33.74856205049776,0.0 -78.93201016577554,33.74856380924053,0.0 -78.93201259701388,33.74856539670242,0.0 -78.93201420371484,33.74856696947787,0.0 -78.93201663391727,33.74856855511845,0.0 -78.93201906815877,33.74856997216489,0.0 -78.93202149833978,33.74857155870695,0.0 -78.93202311020251,33.74857296110306,0.0 -78.93202554450903,33.74857437544459,0.0 -78.93202797877247,33.74857579158928,0.0 -78.93203041720454,33.74857703373028,0.0 -78.93203285254741,33.74857844989287,0.0 -78.93203528879948,33.74857969289928,0.0 -78.93203772826783,33.74858093686131,0.0 -78.93204017080396,33.74858200770328,0.0 -78.93204260917159,33.748583252548755,0.0 -78.93204505170783,33.748584323390595,0.0 -78.93204831660162,33.74858540978403,0.0 -78.932050759138,33.74858648062574,0.0 -78.93205320271055,33.74858755328862,0.0 -78.93205564606977,33.748588454580414,0.0 -78.93205809078643,33.7485895245565,0.0 -78.93206135872664,33.74859043873111,0.0 -78.93206381054999,33.748591166992846,0.0 -78.93206625934899,33.74859206657149,0.0 -78.93206953031378,33.748592809428935,0.0 -78.93207198107963,33.74859353677092,0.0 -78.9320744318239,33.74859426501444,0.0 -78.93207688777282,33.74859482107547,0.0 -78.93202221309261,33.749091151412756,0.0 -78.9320075234421,33.749225284983005,0.0 -78.93200746942766,33.74922578194755,0.0 -78.93200726449865,33.74922554762649,0.0 -78.93191614695907,33.7491227091698,0.0 -78.9315412290599,33.74870029447066,0.0 -78.93156473977884,33.748680413026165,0.0 -78.93158658833404,33.74866136332723,0.0 -78.93160762165162,33.748641955454076,0.0 -78.93162866316888,33.748622204979554,0.0 -78.93164970878105,33.748602283202544,0.0 -78.93166994129278,33.748582004189636,0.0 -78.93168935755304,33.74856136428081,0.0 -78.93170878192639,33.748540385377474,0.0 -78.93172739237659,33.74851921878898,0.0 -78.93174600260495,33.74849788082658,0.0 -78.93176379973397,33.748476185629656,0.0 -78.93178160508418,33.74845414693079,0.0 -78.93178754294229,33.74844668619745,0.0 -78.93178839826201,33.7484453259504,0.0 -78.93179008315346,33.748443635034626,0.0 -78.93179094255576,33.74844210439027,0.0 -78.93179262029626,33.74844075699175,0.0 -78.9317943031986,33.74843923921401,0.0 -78.93179597983811,33.748437892699016,0.0 -78.93179765865769,33.748436545318505,0.0 -78.93179933635476,33.74843519972306,0.0 -78.93180100996915,33.7484340245249,0.0 -78.93180268356191,33.748432850228305,0.0 -78.93180435609696,33.74843167501203,0.0 -78.93180603076885,33.748430500733434,0.0 -78.93180852263481,33.74842951238726,0.0 -78.93181019106552,33.748428508469814,0.0 -78.93181267990639,33.748427691440476,0.0 -78.93181434747059,33.74842685887597,0.0 -78.93181683199435,33.74842604177431,0.0 -78.931818498436,33.74842521099487,0.0 -78.93182098211486,33.748424564344624,0.0 -78.9318242922754,33.74842376104693,0.0 -78.93182760243583,33.748422957749206,0.0 -78.93183090851365,33.74842232484864,0.0 -78.93183338394083,33.748422022599044,0.0 -78.93183668174547,33.74842173500082,0.0 -78.93183997438827,33.74842161778173,0.0 -78.93184244676888,33.748421487750406,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="802469">
+            <name>Parcel_87775</name>
+            <styleUrl>#802474</styleUrl>
+            <Polygon id="802468">
+                <outerBoundaryIs>
+                    <LinearRing id="802472">
+                        <coordinates>-78.93101731271155,33.74900217775537,0.0 -78.93104554916158,33.74899113954306,0.0 -78.93107462254908,33.74897959851412,0.0 -78.93110288586317,33.748967528925505,0.0 -78.93113033288279,33.748955100237424,0.0 -78.93115778914161,33.74894233076671,0.0 -78.9311852547257,33.74892921690713,0.0 -78.93121273158167,33.748915587323715,0.0 -78.93123939425774,33.74890160048111,0.0 -78.93126606515742,33.748887270133444,0.0 -78.93129192297795,33.74887258164374,0.0 -78.93129859686256,33.74886874188087,0.0 -78.93159207374683,33.749222099095185,0.0 -78.93172560084747,33.74938360787137,0.0 -78.93164304246169,33.74942982163025,0.0 -78.93153459163247,33.749473685768926,0.0 -78.93153435067099,33.74947378365821,0.0 -78.93153403774265,33.74947391100992,0.0 -78.93153386548856,33.749473980284286,0.0 -78.93153341300851,33.749474163928184,0.0 -78.93148436035835,33.7494940042895,0.0 -78.93147452332059,33.74949525763596,0.0 -78.93144408525471,33.749499131146486,0.0 -78.93136387291284,33.74950934266879,0.0 -78.93124304766155,33.74933275453143,0.0 -78.93101731271155,33.74900217775537,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="802478">
+            <name>Parcel_87776</name>
+            <styleUrl>#802483</styleUrl>
+            <Polygon id="802477">
+                <outerBoundaryIs>
+                    <LinearRing id="802481">
+                        <coordinates>-78.93240397531356,33.74515648967955,0.0 -78.93251724659132,33.74489483679473,0.0 -78.93360326023604,33.74539031573585,0.0 -78.93344528215522,33.74563165788983,0.0 -78.93240397531356,33.74515648967955,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="802487">
+            <name>Parcel_87777</name>
+            <styleUrl>#802492</styleUrl>
+            <Polygon id="802486">
+                <outerBoundaryIs>
+                    <LinearRing id="802490">
+                        <coordinates>-78.93213578094151,33.747922277263264,0.0 -78.93275429695119,33.74820443575721,0.0 -78.93226908218725,33.74840233313451,0.0 -78.93226831326075,33.74840008709259,0.0 -78.93226671679602,33.74839799678132,0.0 -78.9322651213026,33.74839591099593,0.0 -78.93226434827297,33.74839383625285,0.0 -78.93226275394534,33.7483917468792,0.0 -78.9322611574377,33.748389658371025,0.0 -78.93225955898531,33.74838774119778,0.0 -78.93225796353548,33.74838565360913,0.0 -78.93225636290315,33.74838373730136,0.0 -78.93225476445099,33.74838182012803,0.0 -78.9322531638404,33.74837990291866,0.0 -78.9322507419104,33.74837797198013,0.0 -78.93224914341526,33.74837605660991,0.0 -78.93224754280492,33.74837413940038,0.0 -78.93224594024976,33.74837239352588,0.0 -78.9322435141952,33.748370634787676,0.0 -78.93224190948172,33.74836888887702,0.0 -78.93223948340572,33.74836713104032,0.0 -78.93223787975005,33.74836538604923,0.0 -78.93223545367425,33.74836362821242,0.0 -78.93223384699459,33.74836205453822,0.0 -78.93223141683718,33.74836046709865,0.0 -78.93222980797758,33.74835889428988,0.0 -78.93222737782033,33.748357306850245,0.0 -78.93222494766317,33.748355719410554,0.0 -78.93222251443879,33.74835430509093,0.0 -78.93222008428181,33.74835271765117,0.0 -78.93221846913902,33.74835131700657,0.0 -78.93221603703734,33.74834990090168,0.0 -78.9322135975513,33.74834865784471,0.0 -78.9322111654282,33.74834724264129,0.0 -78.9322087270216,33.748345999602186,0.0 -78.93220628647813,33.74834475562543,0.0 -78.93220384915098,33.7483435126043,0.0 -78.93220140666277,33.7483424399624,0.0 -78.93219896717717,33.7483411969051,0.0 -78.93219652684762,33.748340124299155,0.0 -78.93219325975952,33.7483390396767,0.0 -78.9321908194301,33.74833796707063,0.0 -78.93218837167312,33.74833706931564,0.0 -78.93218592918528,33.74833599667343,0.0 -78.93218348259404,33.74833509533001,0.0 -78.93218021356137,33.74833418204219,0.0 -78.93217776280197,33.748333454702276,0.0 -78.93217531621089,33.74833255335874,0.0 -78.93217204305331,33.74833181227116,0.0 -78.9321695933949,33.748331084047564,0.0 -78.93216713637365,33.74833052797024,0.0 -78.9321638632594,33.748329785079285,0.0 -78.93216140841837,33.74832922813635,0.0 -78.93215813115751,33.74832865834728,0.0 -78.93215567845348,33.74832810234192,0.0 -78.93215321840817,33.74832771758129,0.0 -78.93214994224829,33.74832714690844,0.0 -78.93214748220302,33.74832676214768,0.0 -78.93214419781452,33.748326534974005,0.0 -78.93214173774771,33.74832615111472,0.0 -78.93213845223681,33.74832592572603,0.0 -78.93213598918894,33.74832571138039,0.0 -78.93213270587975,33.74832548422443,0.0 -78.93213024063022,33.74832527164578,0.0 -78.93212695103739,33.74832521665407,0.0 -78.93212448384277,33.74832517541024,0.0 -78.93212119424997,33.74832512041838,0.0 -78.93211872295177,33.74832525047328,0.0 -78.93211543335896,33.74832519548129,0.0 -78.93211296203914,33.7483253264377,0.0 -78.932109666141,33.74832544451146,0.0 -78.9321071929193,33.748325744999555,0.0 -78.93210389922287,33.748325861306114,0.0 -78.9321014237994,33.74832616356114,0.0 -78.93209894729662,33.74832646579809,0.0 -78.93209564642898,33.748326926523426,0.0 -78.93209316992615,33.74832722876026,0.0 -78.93208986908002,33.7483276885838,0.0 -78.9320873884735,33.748328162119435,0.0 -78.93208408650484,33.74832862372795,0.0 -78.93208160285228,33.74832926948194,0.0 -78.9320791192213,33.748329914334285,0.0 -78.93207581317044,33.74833054633988,0.0 -78.93207332953938,33.74833119119212,0.0 -78.93207084694438,33.74833183786553,0.0 -78.93206753571037,33.748332641151755,0.0 -78.93206504903318,33.748333458222326,0.0 -78.93206256123347,33.74833427707795,0.0 -78.93206007863826,33.74833492375109,0.0 -78.93205841526829,33.74833558141378,0.0 -78.93205593159375,33.74833622806882,0.0 -78.9320534531454,33.748336701639815,0.0 -78.93205014709407,33.74833733364473,0.0 -78.93204684408876,33.748337793431084,0.0 -78.93204354211949,33.74833825503853,0.0 -78.9320410708208,33.7483383850919,0.0 -78.93203777712378,33.74833850139669,0.0 -78.93203530992884,33.74833846015108,0.0 -78.93203202443935,33.748338233857986,0.0 -78.93202956026893,33.74833802129536,0.0 -78.9320262800273,33.74833762101651,0.0 -78.93202300276701,33.748337051223864,0.0 -78.9320205438013,33.748336666478615,0.0 -78.93201727064489,33.74833592538689,0.0 -78.932015643386,33.74833521090891,0.0 -78.93201318748805,33.74833465304347,0.0 -78.93201074085546,33.74833375349984,0.0 -78.93200911141652,33.74833303988727,0.0 -78.93200666698574,33.74833213857648,0.0 -78.93195784046549,33.74830967316668,0.0 -78.93195539795968,33.74830860142147,0.0 -78.9319537726472,33.74830771560774,0.0 -78.9319513301631,33.748306642960856,0.0 -78.9319497111131,33.7483055858843,0.0 -78.93194809405178,33.74830435566956,0.0 -78.9319464791274,33.74830312639247,0.0 -78.93194404074748,33.7483018824466,0.0 -78.93194242776865,33.74830048183449,0.0 -78.93194081699156,33.74829907945531,0.0 -78.93193920401285,33.748297678843144,0.0 -78.93193841563375,33.748296290213126,0.0 -78.93193680680228,33.74829471649891,0.0 -78.93193520010774,33.74829314372234,0.0 -78.93193441475348,33.74829158377537,0.0 -78.93193280695819,33.7482900118823,0.0 -78.93193202572958,33.74828827973487,0.0 -78.93193041689837,33.74828670602056,0.0 -78.93192963670585,33.748284975694304,0.0 -78.93192885545572,33.748283244448395,0.0 -78.93192807725195,33.74828134098401,0.0 -78.93192729708113,33.748279609756125,0.0 -78.93192651580951,33.74827787941177,0.0 -78.93192573760582,33.74827597594739,0.0 -78.93192496048144,33.748274072501,0.0 -78.93192418439313,33.74827217087581,0.0 -78.93192422966645,33.74827028117868,0.0 -78.93192345254215,33.74826837773232,0.0 -78.93192349781548,33.7482664880352,0.0 -78.93192354308881,33.7482645983381,0.0 -78.93192358836215,33.74826270864101,0.0 -78.9319228101155,33.74826080697972,0.0 -78.93192285538883,33.748258917282605,0.0 -78.93192372824292,33.74825687005394,0.0 -78.93192377351625,33.748254980356826,0.0 -78.93192381874638,33.74825309246286,0.0 -78.93192468641718,33.74825121651506,0.0 -78.93192473164727,33.74824932862112,0.0 -78.93192559828196,33.74824745085206,0.0 -78.93192564355525,33.74824556115498,0.0 -78.93192650707874,33.74824385830915,0.0 -78.93192737580702,33.748241983280906,0.0 -78.93192823937366,33.74824027863193,0.0 -78.93192910596498,33.748238402666075,0.0 -78.9319299705676,33.74823669983826,0.0 -78.93193083411252,33.74823499609084,0.0 -78.93213578094151,33.747922277263264,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="802496">
+            <name>Parcel_87778</name>
+            <styleUrl>#802501</styleUrl>
+            <Polygon id="802495">
+                <outerBoundaryIs>
+                    <LinearRing id="802499">
+                        <coordinates>-78.92910302069521,33.74731259922393,0.0 -78.92941911849985,33.747236794220406,0.0 -78.92972521226721,33.748126956247766,0.0 -78.92960082714136,33.74816765769996,0.0 -78.92941756454626,33.748227647189665,0.0 -78.92910302069521,33.74731259922393,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="802505">
+            <name>Parcel_87779</name>
+            <styleUrl>#802510</styleUrl>
+            <Polygon id="802504">
+                <outerBoundaryIs>
+                    <LinearRing id="802508">
+                        <coordinates>-78.68949540666944,33.81610735513614,0.0 -78.68950372869297,33.816104074866345,0.0 -78.68960444845827,33.816063512602625,0.0 -78.68969570861786,33.816222436724814,0.0 -78.68971008018696,33.81624746302137,0.0 -78.68960263343448,33.81629226444389,0.0 -78.68958828157328,33.816267511798415,0.0 -78.68949540666944,33.81610735513614,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="802514">
+            <name>Parcel_87780</name>
+            <styleUrl>#802519</styleUrl>
+            <Polygon id="802513">
+                <outerBoundaryIs>
+                    <LinearRing id="802517">
+                        <coordinates>-79.04817055649713,33.85392848988232,0.0 -79.04819225077978,33.85388862707682,0.0 -79.0482223702426,33.853899716121965,0.0 -79.04822247526452,33.85389975655844,0.0 -79.04830617716455,33.853930626140084,0.0 -79.04838913187925,33.85396122143898,0.0 -79.048654617472,33.85405913298892,0.0 -79.0490034359719,33.85418764389308,0.0 -79.04900292788042,33.8541876449085,0.0 -79.0487168174244,33.854188161281094,0.0 -79.04843586782441,33.85418866902355,0.0 -79.04841115835175,33.85418862330288,0.0 -79.04838068446327,33.85418969979543,0.0 -79.04837076382732,33.854190048535145,0.0 -79.04831759455995,33.8541911660311,0.0 -79.04831472422923,33.85419122632304,0.0 -79.04829608062086,33.85419192733157,0.0 -79.04829599404947,33.85419193137877,0.0 -79.04828257173749,33.854192437779766,0.0 -79.04823058205635,33.85419660148801,0.0 -79.04818602373629,33.854200022777626,0.0 -79.0481550306274,33.85420316719501,0.0 -79.04812740497685,33.85420597054506,0.0 -79.04810333842218,33.85420918352111,0.0 -79.0481027432069,33.85420926072279,0.0 -79.04809805368126,33.85420988849294,0.0 -79.04808939902979,33.85421104271204,0.0 -79.04808216058571,33.85421243119474,0.0 -79.04804886062428,33.85421882212882,0.0 -79.04802325730653,33.854223735293715,0.0 -79.04800832327163,33.85422660245095,0.0 -79.04817055649713,33.85392848988232,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="802523">
+            <name>Parcel_87781</name>
+            <styleUrl>#802528</styleUrl>
+            <Polygon id="802522">
+                <outerBoundaryIs>
+                    <LinearRing id="802526">
+                        <coordinates>-78.83010031811558,33.742016181469694,0.0 -78.83046163568035,33.741712783409,0.0 -78.83046170183464,33.741712728648274,0.0 -78.83050442148063,33.74174784238351,0.0 -78.8306462806218,33.74186459176851,0.0 -78.83064626521903,33.74186460322379,0.0 -78.83028411909632,33.742168665549656,0.0 -78.83028405728089,33.74216871948444,0.0 -78.83017176643345,33.74207549813348,0.0 -78.83010031811558,33.742016181469694,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="802532">
+            <name>Parcel_87782</name>
+            <styleUrl>#802537</styleUrl>
+            <Polygon id="802531">
+                <outerBoundaryIs>
+                    <LinearRing id="802535">
+                        <coordinates>-78.89396278484531,33.73065306879332,0.0 -78.89419497492172,33.73101475416357,0.0 -78.89399363206006,33.73110823145074,0.0 -78.89378989358094,33.73079410900387,0.0 -78.8937883203463,33.73079116171709,0.0 -78.89378675239162,33.73078804224894,0.0 -78.8937851823009,33.73078492184241,0.0 -78.89378443547035,33.730781817260336,0.0 -78.89378287169478,33.730778526493935,0.0 -78.89378212803008,33.73077524789054,0.0 -78.8937822118042,33.73077181381342,0.0 -78.89378229144347,33.730768549231264,0.0 -78.89378237521757,33.73076511515408,0.0 -78.89378245481286,33.73076185237511,0.0 -78.89378336191275,33.73075843141762,0.0 -78.89378426375468,33.73075518173987,0.0 -78.8937851644955,33.73075193294535,0.0 -78.8937860621365,33.73074885546735,0.0 -78.89378778310312,33.730745791108944,0.0 -78.8937895018675,33.73074272851698,0.0 -78.89379203980059,33.73073984944112,0.0 -78.89379375236527,33.730737129482115,0.0 -78.89379628607529,33.73073442350747,0.0 -78.8937988144833,33.73073189061572,0.0 -78.89380216311703,33.73072954215998,0.0 -78.89380468321119,33.73072735006125,0.0 -78.89380802346506,33.73072534510324,0.0 -78.89381136261771,33.73072334102829,0.0 -78.89381469339072,33.73072168045116,0.0 -78.89395862765356,33.73065488757254,0.0 -78.89396278484531,33.73065306879332,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="802541">
+            <name>Parcel_87783</name>
+            <styleUrl>#802546</styleUrl>
+            <Polygon id="802540">
+                <outerBoundaryIs>
+                    <LinearRing id="802544">
+                        <coordinates>-78.89399363206006,33.73110823145074,0.0 -78.89419497492172,33.73101475416357,0.0 -78.89443127079882,33.731376852583395,0.0 -78.89428484081627,33.731444804011716,0.0 -78.89427985186113,33.73144695408453,0.0 -78.89427487658432,33.731448587576345,0.0 -78.89426991078605,33.73144987668692,0.0 -78.8942649511634,33.731450824065774,0.0 -78.89425918298787,33.73145124086398,0.0 -78.8942542412216,33.731451500363534,0.0 -78.89424848977964,33.73145123106712,0.0 -78.89424357006997,33.73145063048759,0.0 -78.8942386565362,33.73144968817641,0.0 -78.894232934406,33.7314482170875,0.0 -78.89422803877326,33.731446585093856,0.0 -78.894223977862,33.73144445500864,0.0 -78.89421909891956,33.73144213872362,0.0 -78.89421505060862,33.73143949203893,0.0 -78.89421100845183,33.73143650452425,0.0 -78.89420697907745,33.73143316997879,0.0 -78.8942037739765,33.731429677196815,0.0 -78.89420139944099,33.7314258567201,0.0 -78.89419902272559,33.73142203710818,0.0 -78.89399363206006,33.73110823145074,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="802550">
+            <name>Parcel_87784</name>
+            <styleUrl>#802555</styleUrl>
+            <Polygon id="802549">
+                <outerBoundaryIs>
+                    <LinearRing id="802553">
+                        <coordinates>-78.89378753274005,33.735004357884414,0.0 -78.89395973384813,33.734925677056815,0.0 -78.89396292653304,33.73492968373699,0.0 -78.89404388892935,33.735050305536646,0.0 -78.89414156832495,33.735193892171594,0.0 -78.89425429300734,33.73536144786023,0.0 -78.89407627988211,33.73544226335063,0.0 -78.89396435468367,33.73527575383663,0.0 -78.89378753274005,33.735004357884414,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="802559">
+            <name>Parcel_87785</name>
+            <styleUrl>#802564</styleUrl>
+            <Polygon id="802558">
+                <outerBoundaryIs>
+                    <LinearRing id="802562">
+                        <coordinates>-78.89442170171289,33.73469107423908,0.0 -78.89442200832173,33.734690940559695,0.0 -78.89444259987071,33.73475727005475,0.0 -78.89449141576252,33.73484693166492,0.0 -78.89449132738912,33.73484696984595,0.0 -78.8944847653559,33.73484973984206,0.0 -78.89445897465173,33.73486167273124,0.0 -78.89404388892935,33.735050305536646,0.0 -78.89396292653304,33.73492968373699,0.0 -78.89395973384813,33.734925677056815,0.0 -78.89394786386754,33.73490640244356,0.0 -78.89436378286891,33.73471726823877,0.0 -78.89441369248952,33.73469457812776,0.0 -78.89442170171289,33.73469107423908,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="802568">
+            <name>Parcel_87786</name>
+            <styleUrl>#802573</styleUrl>
+            <Polygon id="802567">
+                <outerBoundaryIs>
+                    <LinearRing id="802571">
+                        <coordinates>-78.89455416881626,33.73500590400872,0.0 -78.8945732997962,33.73499729503432,0.0 -78.89459299363912,33.735033024330455,0.0 -78.89460092310802,33.73504518672309,0.0 -78.8946501612103,33.73511750386985,0.0 -78.8946546729935,33.735146926286575,0.0 -78.89465583779348,33.735154541375664,0.0 -78.89465653131364,33.73515987915404,0.0 -78.89462446423865,33.73519301093379,0.0 -78.89460948751918,33.735199972432824,0.0 -78.89425429300734,33.73536144786023,0.0 -78.89414156832495,33.735193892171594,0.0 -78.89455416881626,33.73500590400872,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="802577">
+            <name>Parcel_87787</name>
+            <styleUrl>#802582</styleUrl>
+            <Polygon id="802576">
+                <outerBoundaryIs>
+                    <LinearRing id="802580">
+                        <coordinates>-78.8938333466696,33.73181151092434,0.0 -78.89400557488392,33.73173145599602,0.0 -78.89429669252532,33.73216856293398,0.0 -78.89429679673647,33.73216871623481,0.0 -78.89418658970838,33.73221969007769,0.0 -78.894123745659,33.73224875846323,0.0 -78.8938333466696,33.73181151092434,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="802586">
+            <name>Parcel_87788</name>
+            <styleUrl>#802591</styleUrl>
+            <Polygon id="802585">
+                <outerBoundaryIs>
+                    <LinearRing id="802589">
+                        <coordinates>-78.89486835555249,33.73133103165485,0.0 -78.89504140194245,33.73125098833459,0.0 -78.89533179897543,33.73168822125108,0.0 -78.89533180520796,33.73168823127852,0.0 -78.89515957828748,33.731768288955664,0.0 -78.89515953457196,33.7317682223698,0.0 -78.89486835555249,33.73133103165485,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="802595">
+            <name>Parcel_87789</name>
+            <styleUrl>#802600</styleUrl>
+            <Polygon id="802594">
+                <outerBoundaryIs>
+                    <LinearRing id="802598">
+                        <coordinates>-78.8948965562269,33.72943049045574,0.0 -78.89499228020439,33.72938589969652,0.0 -78.89499234686566,33.72938599914305,0.0 -78.89531368940325,33.729866969392916,0.0 -78.89514064078418,33.729947184393936,0.0 -78.89482005446342,33.72946612825082,0.0 -78.8948965562269,33.72943049045574,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="802604">
+            <name>Parcel_87790</name>
+            <styleUrl>#802609</styleUrl>
+            <Polygon id="802603">
+                <outerBoundaryIs>
+                    <LinearRing id="802607">
+                        <coordinates>-78.89539590351585,33.72919861307761,0.0 -78.89550976936627,33.72914556917565,0.0 -78.89550985587,33.72914569601786,0.0 -78.89583118055354,33.729626637548186,0.0 -78.89565813707185,33.72970668197848,0.0 -78.89533754566442,33.72922579847238,0.0 -78.89539590351585,33.72919861307761,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="802613">
+            <name>Parcel_87791</name>
+            <styleUrl>#802618</styleUrl>
+            <Polygon id="802612">
+                <outerBoundaryIs>
+                    <LinearRing id="802616">
+                        <coordinates>-78.89368420135014,33.72999343565212,0.0 -78.89378506559991,33.729946780416334,0.0 -78.8941056479172,33.73042784010181,0.0 -78.89393341927432,33.730508067406475,0.0 -78.8936120873192,33.73002692144502,0.0 -78.89361202065902,33.73002682199781,0.0 -78.89368420135014,33.72999343565212,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="802622">
+            <name>Parcel_87792</name>
+            <styleUrl>#802627</styleUrl>
+            <Polygon id="802621">
+                <outerBoundaryIs>
+                    <LinearRing id="802625">
+                        <coordinates>-78.89638729764887,33.728738246684465,0.0 -78.89654474012752,33.728664901625834,0.0 -78.89654486413679,33.72866508412379,0.0 -78.89686615836311,33.72914579693555,0.0 -78.89669311371043,33.72922601413736,0.0 -78.8963725172449,33.7287451332538,0.0 -78.89638729764887,33.728738246684465,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="802631">
+            <name>Parcel_87793</name>
+            <styleUrl>#802636</styleUrl>
+            <Polygon id="802630">
+                <outerBoundaryIs>
+                    <LinearRing id="802634">
+                        <coordinates>-78.89448028864386,33.73041257133649,0.0 -78.89465251661021,33.730332342367426,0.0 -78.8947658351147,33.730509014862804,0.0 -78.89488552361932,33.730694384877296,0.0 -78.89475989566752,33.730752554889364,0.0 -78.89471247496321,33.73077442793235,0.0 -78.89448028864386,33.73041257133649,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="802640">
+            <name>Parcel_87794</name>
+            <styleUrl>#802645</styleUrl>
+            <Polygon id="802639">
+                <outerBoundaryIs>
+                    <LinearRing id="802643">
+                        <coordinates>-78.89395729434014,33.729866553328506,0.0 -78.89412951534526,33.72978649724272,0.0 -78.89412959347928,33.72978661312007,0.0 -78.89445092232961,33.73026756826304,0.0 -78.89427869320414,33.73034779783558,0.0 -78.89395732655838,33.729866604386,0.0 -78.89395729434014,33.729866553328506,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="802649">
+            <name>Parcel_87795</name>
+            <styleUrl>#802654</styleUrl>
+            <Polygon id="802648">
+                <outerBoundaryIs>
+                    <LinearRing id="802652">
+                        <coordinates>-78.89654474012752,33.728664901625834,0.0 -78.89667880057507,33.72860288667611,0.0 -78.8967177828358,33.72858485687841,0.0 -78.89703202890861,33.72905621528897,0.0 -78.8970383773919,33.72906573682589,0.0 -78.89703172141164,33.72906883997474,0.0 -78.89695268057989,33.72910568779264,0.0 -78.89686615836311,33.72914579693555,0.0 -78.89654486413679,33.72866508412379,0.0 -78.89654474012752,33.728664901625834,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="802658">
+            <name>Parcel_87796</name>
+            <styleUrl>#802663</styleUrl>
+            <Polygon id="802657">
+                <outerBoundaryIs>
+                    <LinearRing id="802661">
+                        <coordinates>-78.89413501161407,33.730572840511556,0.0 -78.89430806037949,33.730492799163,0.0 -78.89454024727189,33.73085465609533,0.0 -78.89436802128006,33.730934712682405,0.0 -78.89413501161407,33.730572840511556,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="802667">
+            <name>Parcel_87797</name>
+            <styleUrl>#802672</styleUrl>
+            <Polygon id="802666">
+                <outerBoundaryIs>
+                    <LinearRing id="802670">
+                        <coordinates>-78.9320075234421,33.749225284983005,0.0 -78.93202221309261,33.749091151412756,0.0 -78.93207688777282,33.74859482107547,0.0 -78.9320793384956,33.74859555022051,0.0 -78.93208261576605,33.74859612001167,0.0 -78.93208507061416,33.7485966769561,0.0 -78.93208835196678,33.748597076349796,0.0 -78.93209080685817,33.74859763149098,0.0 -78.93209326473074,33.7485980171183,0.0 -78.93209654718433,33.74859841562831,0.0 -78.93209900507856,33.74859880035395,0.0 -78.93210229057814,33.74859902664528,0.0 -78.93210475367694,33.748599239188444,0.0 -78.93210803915495,33.74859946638118,0.0 -78.93211050221058,33.74859968072736,0.0 -78.93211378773182,33.748599906116816,0.0 -78.93211625493427,33.74859994736085,0.0 -78.93211954453756,33.74860000235284,0.0 -78.93212201174002,33.748600043596774,0.0 -78.9321253054253,33.74859992819131,0.0 -78.93212777154851,33.74859996941708,0.0 -78.93213106637782,33.74859985132477,0.0 -78.93213354180902,33.748599549069155,0.0 -78.93213683551588,33.74859943276177,0.0 -78.93213931094705,33.74859913050603,0.0 -78.93214260877905,33.74859884199808,0.0 -78.93214508423178,33.74859853884069,0.0 -78.9321475607422,33.74859823660282,0.0 -78.93215086375689,33.7485977768138,0.0 -78.93215334221227,33.748597303240885,0.0 -78.93215664414765,33.748596843433646,0.0 -78.9321591237254,33.74859636807554,0.0 -78.93216160738505,33.74859572232001,0.0 -78.93216490932033,33.74859526251261,0.0 -78.93216739708343,33.74859444545809,0.0 -78.93217070316531,33.748593812548485,0.0 -78.93217318680321,33.74859316769431,0.0 -78.93217567348685,33.74859235062161,0.0 -78.93217816129295,33.74859153176376,0.0 -78.93218147145653,33.748590728456605,0.0 -78.93218396332281,33.74858974010286,0.0 -78.93218645220804,33.748588921262865,0.0 -78.9321889440742,33.74858793290905,0.0 -78.93219143598348,33.74858694275203,0.0 -78.932193931953,33.748585783099266,0.0 -78.93219724626287,33.74858480668963,0.0 -78.93219974225383,33.74858364613513,0.0 -78.93220223934556,33.74858248469709,0.0 -78.93220557829738,33.7485804795924,0.0 -78.93247465695903,33.748956450508174,0.0 -78.93260283539415,33.74913522303767,0.0 -78.93259640024115,33.749143928283736,0.0 -78.93256797212804,33.74918240498278,0.0 -78.9325677084414,33.74918223461991,0.0 -78.93243672101467,33.74909756708766,0.0 -78.93243660466919,33.74909755612366,0.0 -78.93237415190535,33.74909212254553,0.0 -78.93233162893237,33.7490884218669,0.0 -78.93219371750988,33.74917855309629,0.0 -78.93208083850928,33.74915106474307,0.0 -78.93208081081472,33.74915109404393,0.0 -78.93200746942766,33.74922578194755,0.0 -78.9320075234421,33.749225284983005,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="802676">
+            <name>Parcel_87798</name>
+            <styleUrl>#802681</styleUrl>
+            <Polygon id="802675">
+                <outerBoundaryIs>
+                    <LinearRing id="802679">
+                        <coordinates>-78.92801455720931,33.745358997582805,0.0 -78.92803152491064,33.74533746037951,0.0 -78.9280476797422,33.74531573819026,0.0 -78.92806301934081,33.74529365960808,0.0 -78.92807835787394,33.74527158010426,0.0 -78.92809288121788,33.74524914240481,0.0 -78.92810740972328,33.7452265343243,0.0 -78.92817417304889,33.74511854727812,0.0 -78.92934441043846,33.74561821109296,0.0 -78.92934271320571,33.74562041677459,0.0 -78.9291578635351,33.745849620152626,0.0 -78.92911633112853,33.74590047042416,0.0 -78.92911287985005,33.74590711402123,0.0 -78.92908494932824,33.74593963468724,0.0 -78.92801455720931,33.745358997582805,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="802685">
+            <name>Parcel_87799</name>
+            <styleUrl>#802690</styleUrl>
+            <Polygon id="802684">
+                <outerBoundaryIs>
+                    <LinearRing id="802688">
+                        <coordinates>-78.93227380439643,33.74851426722717,0.0 -78.93227552325007,33.74851120322703,0.0 -78.93227640329046,33.74850881067545,0.0 -78.93227728024198,33.74850659214551,0.0 -78.9322781561358,33.74850437269597,0.0 -78.93227903501041,33.74850198373262,0.0 -78.93227991090414,33.74849976428305,0.0 -78.93228079198035,33.74849737355263,0.0 -78.932281667874,33.74849515410309,0.0 -78.93228172547104,33.74849274960771,0.0 -78.93228260438862,33.7484903588412,0.0 -78.93228348133978,33.748488140311174,0.0 -78.93228353893679,33.74848573581581,0.0 -78.9322844189335,33.74848334506731,0.0 -78.93228447653046,33.74848094057193,0.0 -78.93228453412742,33.74847853607656,0.0 -78.93228541304478,33.74847614530999,0.0 -78.9322854706633,33.74847373991307,0.0 -78.93228552821704,33.74847133722084,0.0 -78.93228558585714,33.748468930922286,0.0 -78.93228564345407,33.7484665264269,0.0 -78.93228569692612,33.74846429413196,0.0 -78.93228575450141,33.74846189053813,0.0 -78.93228581209831,33.74845948604275,0.0 -78.93228586969522,33.74845708154736,0.0 -78.93228592729211,33.748454677051946,0.0 -78.93228598488902,33.74845227255655,0.0 -78.93228522116576,33.74844985433233,0.0 -78.93228527876266,33.74844744983693,0.0 -78.9322845139602,33.74844503159464,0.0 -78.93228457160032,33.748442625296065,0.0 -78.93228380159381,33.748440379236214,0.0 -78.93228303784909,33.74843796191351,0.0 -78.93228309544607,33.74843555741812,0.0 -78.9322823265189,33.748433311376274,0.0 -78.9322815606374,33.74843089311595,0.0 -78.93228079173193,33.7484286461725,0.0 -78.932280028009,33.748426227948215,0.0 -78.9322792591036,33.748423981004784,0.0 -78.9322784890974,33.748421734944834,0.0 -78.93227772537459,33.74841931672055,0.0 -78.93227695431075,33.74841706974104,0.0 -78.93227618648481,33.74841482281562,0.0 -78.93227459623822,33.748412563044795,0.0 -78.93227382733308,33.74841031610131,0.0 -78.93227223080322,33.74840822849483,0.0 -78.93227146295584,33.74840598247095,0.0 -78.93226987057261,33.748403721762415,0.0 -78.93226908218725,33.74840233313451,0.0 -78.93275429695119,33.74820443575721,0.0 -78.93282076845736,33.74817719610826,0.0 -78.93293700776587,33.74854937253762,0.0 -78.93300110556369,33.74875460086425,0.0 -78.93227380439643,33.74851426722717,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+    </Document>
+</kml>
